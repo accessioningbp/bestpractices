@@ -23,7 +23,7 @@ layout:
 
 [GOING FURTHER 11.3 ➤ Create accession records for legacy materials not yet documented in your system of record](description-and-access.md#bp11-3)
 
-[BEST PRACTICE 11.4 ➤ Apply DACS principles to archival description created during accessioning](description-and-access.md#bp11-4)
+[BEST PRACTICE 11.4 ➤ Apply _DACS_ principles to archival description created during accessioning](description-and-access.md#bp11-4)
 
 [ADDITIONAL CONSIDERATIONS ➤ Strive to create a single-level description when describing materials during accessioning](description-and-access.md#additional-considerations-strive-to-create-a-single-level-description-when-describing-materials-duri)
 
@@ -36,7 +36,7 @@ layout:
 [BEST PRACTICE 11.8 ➤ Operationalize reparative description through accessioning](description-and-access.md#bp11-8)
 {% endtab %}
 
-{% tab title="SECTION 12: STEPS TOWARDS ACCESS" %}
+{% tab title="SECTION 12: STEPS TOWARD ACCESS" %}
 [BEST PRACTICE 12.1 ➤ Consider description during accessioning as the foundation of an extensible processing program](description-and-access.md#bp12-1)
 
 [BEST PRACTICE 12.2 ➤ Make descriptive information about accessioned materials available to users to the broadest extent possible](description-and-access.md#bp12-2)
@@ -85,7 +85,7 @@ _Describing Archives: A Content Standard (DACS)_ does not specify a set of metad
 
 #### ADDITIONAL CONSIDERATIONS ➤  Strive to create a single-level description when describing materials during accessioning
 
-_DACS_ provides guidance for single-level description, which forms the basis for the elements of the accession record recommended in this document. For example, an institution may choose to create a catalog record with a single-level description of an archival collection or record group. Although often associated with catalog records, single-level descriptions can be incorporated into finding aids as an efficient way of alerting researchers about new collections. Using information from the accession record, the archivist can describe materials at the collection level without including a container list. **Lower-priority materials, such as accessions with access and use restrictions, are potential candidates to receive single-level descriptions**. _For a recommended elements set, refer to_ [_Accession Record Elements_](../accession-record-elements.md)_._
+_DACS_ provides guidance for single-level description, which forms the basis for the elements of the accession record recommended in this document. For example, an institution may choose to create a catalog record with a single-level description of an archival collection or record group. Although often associated with catalog records, single-level descriptions can be incorporated into finding aids as an efficient way of alerting researchers about new collections. Using information from the accession record, the archivist can describe materials at the collection level without including a container list. **Lower-priority materials, such as accessions with access and use restrictions, are potential candidates to receive single-level descriptions**. _For a recommended elements set, refer to_ [_Accession Record Elements_](../accession-record-elements.md#section17)_._
 
 {% hint style="success" %}
 **External Resource:** Refer to Chapter 1 in _DACS_ for additional guidance on required fields based on the level of description. A simple, single-level description that may be applicable to accession records has nine required fields: reference code, name and location of the repository, title, date, extent, name of the creator(s), scope and content, conditions governing access, and languages and scripts of the materials.
@@ -124,7 +124,7 @@ Approach accretions to existing collections as an opportunity to revisit legacy 
 **External Resource:** Resources on inclusive description are [available through SAA’s Description Section.](https://www2.archivists.org/groups/description-section/inclusive-description)
 {% endhint %}
 
-## SECTION 12: STEPS TOWARDS ACCESS <a href="#section12" id="section12"></a>
+## SECTION 12: STEPS TOWARD ACCESS <a href="#section12" id="section12"></a>
 
 #### <mark style="color:blue;">BEST PRACTICE 12.1 ➤  Consider description during accessioning as the foundation of an extensible processing program</mark> <a href="#bp12-1" id="bp12-1"></a>
 

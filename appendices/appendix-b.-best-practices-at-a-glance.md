@@ -149,7 +149,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 11.8](../methods-and-practices/description-and-access.md#bp11-8) ➤  Operationalize reparative description through accessioning
 
-#### [Section 12: Steps Towards Access](appendix-b.-best-practices-at-a-glance.md#id-5euc80oya1ox) <a href="#id-5euc80oya1ox" id="id-5euc80oya1ox"></a>
+#### [Section 12: Steps Toward Access](appendix-b.-best-practices-at-a-glance.md#id-5euc80oya1ox) <a href="#id-5euc80oya1ox" id="id-5euc80oya1ox"></a>
 
 [BEST PRACTICE 12.1](../methods-and-practices/description-and-access.md#bp12-1) ➤  Consider description during accessioning as the foundation of an extensible processing program
 
