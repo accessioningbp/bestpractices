@@ -15,8 +15,6 @@ layout:
 
 # Acknowledgements
 
-## Acknowledgements
-
 The work of the National Best Practices for Archival Accessioning Working Group was funded generously by the Institute of Museum and Library Services (IMLS) National Leadership Grants for Libraries program. This work is generously supported by the Society of American Archivists (SAA) Standards Committee; the SAA Accessioning, Acquisitions, & Appraisal Section; and the SAA Foundation.
 
 We would like to thank Erin Barsan of IMLS and Yale University Library for their contributions in managing the material support that made this project possible. We also thank Copyeditor Abigail Christian for her thoughtful suggestions and care during the editing process.

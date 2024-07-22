@@ -77,11 +77,11 @@ layout:
 
 ◆    Kelli Yakabu, _John F. Kennedy Library Foundation_
 
-> With gratitude to the group’s founders and leaders:
->
-> ◆    Rosemary K. J. Davis, _Yale University_
->
-> ◆    Meaghan O’Riordan, _Moravian Church in America, Southern Province_
+**With gratitude to the group’s founders and leaders:**
+
+◆    Rosemary K. J. Davis, _Yale University_
+
+◆    Meaghan O’Riordan, _Moravian Church in America, Southern Province_
 
 _\*Indicates working group members who served in leadership roles._
 

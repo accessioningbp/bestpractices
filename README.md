@@ -18,11 +18,16 @@ layout:
     visible: true
 ---
 
-# FRONT MATTER
+# ABOUT
 
 ## Archival Accessioning Best Practices
 
-_A set of best practices by the_ **NATIONAL BEST PRACTICES **_**for**_** ARCHIVAL ACCESSIONING WORKING GROUP**
+**ABP v.1.0**
+
+_A set of best practices by the_
+
+**NATIONAL BEST PRACTICES **_**for**_ \
+**ARCHIVAL ACCESSIONING WORKING GROUP**
 
 July 2024
 

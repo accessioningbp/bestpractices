@@ -1,10 +1,10 @@
 # Table of contents
 
-* [FRONT MATTER](README.md)
-  * [Download This Resource](front-matter/download-this-resource.md)
-  * [Future Revisions and Feedback](front-matter/future-revisions-and-feedback.md)
-  * [Members of the National Best Practices for Archival Accessioning Working Group](front-matter/members-of-the-national-best-practices-for-archival-accessioning-working-group.md)
-  * [Acknowledgements](front-matter/acknowledgements.md)
+* [ABOUT](README.md)
+  * [Download This Resource](about/download-this-resource.md)
+  * [Document History and Revisions](about/document-history-and-revisions.md)
+  * [Members of the National Best Practices for Archival Accessioning Working Group](about/members-of-the-national-best-practices-for-archival-accessioning-working-group.md)
+  * [Acknowledgements](about/acknowledgements.md)
 * [INTRODUCTION](introduction/README.md)
   * [Accessioning: The Roots of Archival Stewardship](introduction/accessioning-the-roots-of-archival-stewardship.md)
   * [The Road to Best Practices](introduction/the-road-to-best-practices.md)
