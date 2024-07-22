@@ -134,27 +134,116 @@ Wiener, Judith A. “The Element of Surprise: Preparing for the Possibility of H
 
 ### **Resources**
 
+American Institute for Conservation. “Conservation Terminology.” [https://www.culturalheritage.org/about-conservation/what-is-conservation/definitions](https://www.culturalheritage.org/about-conservation/what-is-conservation/definitions)
 
+Center for Research Libraries. “Trustworthy Repositories Audit & Certification: Criteria and Checklist (TRAC).” [https://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and-certifying/trac](https://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and-certifying/trac)
+
+Christophersen, Allan, Elena Colon-Marrero, Dianne Deitrich, Patricia Falcao, Claire Fox, Karen Hanson, Allan Kwan, and Matthew McEniry. “Software Metadata Recommended Format Guide (SMRF).” Software Preservation Network, 2022. [https://www.softwarepreservationnetwork.org/smrf-guide/](https://www.softwarepreservationnetwork.org/smrf-guide/)
+
+DANNNG! “Disk Imaging Decision Factors.” [https://dannng.github.io/disk-imaging-decision-factors.html](https://dannng.github.io/disk-imaging-decision-factors.html)
+
+Fisher, Monique. “Leaflet 5.1: A Short Guide to Film Base Photographic Materials: Identification, Care, and Duplication.” In _NEDCC Preservation Leaflet_. Andover, MA: Northeast Document Conservation Center, 2020. [https://www.nedcc.org/free-resources/preservation-leaflets/5.-photographs/5.1-a-short-guide-to-film-base-photographic-materials-identification,-care,-and-duplication](https://www.nedcc.org/free-resources/preservation-leaflets/5.-photographs/5.1-a-short-guide-to-film-base-photographic-materials-identification,-care,-and-duplication)
+
+Levels of Digital Preservation Working Group. “Levels of Digital Preservation.” NDSA DLF, 2019. [https://ndsa.org/publications/levels-of-digital-preservation/](https://ndsa.org/publications/levels-of-digital-preservation/)
+
+Library of Congress. “Sustainability of Digital Formats: Planning for Library of Congress Collections.” Last modified October 21, 2023.[ https://www.loc.gov/preservation/digital/formats/index.html](https://www.loc.gov/preservation/digital/formats/index.html)
+
+National Fire Prevention Association. _NFPA 40: Standard for the Storage and Handling of Cellulose Nitrate Film_. Quincy, MA: NFPA, 2022. [https://www.nfpa.org/codes-and-standards/nfpa-40-standard-development/40](https://www.nfpa.org/codes-and-standards/nfpa-40-standard-development/40)
+
+National Park Service. “Cold Storage: Long-Term Preservation Strategy for Film-Based Photographic Materials.” Accessed May 29, 2024. [https://www.nps.gov/museum/coldstorage/html/index.html](https://www.nps.gov/museum/coldstorage/html/index.html)
+
+Open Archival Information System. “OAIS Reference Model (ISO 14721).” [http://www.oais.info/](http://www.oais.info/)
+
+Parker, Thomas A. “Leaflet 3.10: Integrated Preventative Pest Management.” In _NEDCC Preservation Leaflet_. Andover, MA: Northeast Document Conservation Center, 2015, [https://www.nedcc.org/free-resources/preservation-leaflets/3.-emergency-management/3.10-integrated-pest-management](https://www.nedcc.org/free-resources/preservation-leaflets/3.-emergency-management/3.10-integrated-pest-management)
 
 ### **Works Consulted**
 
+Blumenthal, Karl-Rainer, Peggy Griesinger, Julia Y. Kim, Shira Peltzman, and Vicky Steeves. “What’s Wrong with Digital Stewardship: Evaluating the Organization of Digital Preservation Programs from Practitioners’ Perspectives.” _Journal of Contemporary Archival Studies_ 7, no. 1 (2020), Article 13. [https://elischolar.library.yale.edu/jcas/vol7/iss1/13](https://elischolar.library.yale.edu/jcas/vol7/iss1/13)
 
+Briney, Kristin, Becky Yoose, John Mark Ockerbloom, and Shea Swauger. “A Practical Guide to Performing a Library User Data Risk Assessment in Library-Built Systems.” Digital Library Federation, May 2020. [http://doi.org/10.17605/OSF.IO/V2C3M](http://doi.org/10.17605/OSF.IO/V2C3M)
+
+Hackbart-Dean, Pam, and Theresa J. Montgomery. “Look Before You Leap: Weaving Preservation into Appraisal, Acquisition, Accessioning, and Processing Practices.” _Provenance_ 16, no. 1 (1998): 75–92.
+
+Lowe, Carli V. “Partnering Preservation with Sustainability.” _The American Archivist_ 83, no. 1 (2020): 144–64. [https://doi.org/10.17723/0360-9081-83.1.144](https://doi.org/10.17723/0360-9081-83.1.144)
+
+McCann, Laura. “Preservation as Obstacle or Opportunity? Rethinking the Preservation-Access Model in the Age of MPLP.” _Journal of Archival Organization_ 11, nos. 1–2 (2013): 23–48. [https://doi.org/10.1080/15332748.2013.871972](https://doi.org/10.1080/15332748.2013.871972)
+
+Pendergrass, Keith L., Walker Sampson, Tim Walsh, and Laura Alagna. “Toward Environmentally Sustainable Digital Preservation.” _The American Archivist_ 82, no. 1 (2019): 165–206. [https://doi.org/10.17723/0360-9081-82.1.165](https://doi.org/10.17723/0360-9081-82.1.165)
+
+Ritzenthaler, Mary Lynn. “Preservation.” In _Photographs: Archival Care and Management_, by Mary Lynn Ritzenthaler and Diana Vogt-O’Conner, 134–63. Chicago, IL: Society of American Archivists, 2006.
+
+Williams, Joy Ellen. “The Big Freeze: A Reflection on Pests, Preservation, and Collaborative Experimentation.” _Archival Outlook_ (November/December 2021): 10–11, 16.
 
 ## DESCRIPTION AND ACCESS <a href="#id-6tuxas4e1rvt" id="id-6tuxas4e1rvt"></a>
 
 ### **Resources**
 
+Berdini, Annalise, Charles Macquarie, Shira Peltzman, and Kate Tasker. U_C Guidelines for Born-Digital Archival Description_. UC Office of the President: University of California Systemwide Libraries, 2017.  [https://escholarship.org/uc/item/9cg222jc](https://escholarship.org/uc/item/9cg222jc)
 
+California Audiovisual Preservation Project. “Audiovisual Formats: A Guide to Identification.” September 26, 2013. [https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats\_draft\_webversion-2013oct15.pdf](https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats\_draft\_webversion-2013oct15.pdf)
+
+Dundon, K., McPhee, L., Arroyo-Ramirez, E., Beiser, J., Dean, C., Eagle Yun, A., et al. “Guidelines for Efficient Archival Processing in the University of California Libraries (Version 4).” University of California Libraries, 2020. [https://escholarship.org/uc/item/4b81g01z](https://escholarship.org/uc/item/4b81g01z)
+
+Faulder, Erin, Susanne Annand, Sally DeBauche, Martin Gengenbach, Karla Irwin, Julie Musson, Shira Peltzman, Kate Tasker, Laura Uglean Jackson, and Dorothy Waugh. “Digital Processing Framework.” Cornell University Library, August 2018. [https://hdl.handle.net/1813/57659](https://hdl.handle.net/1813/57659)
+
+International Council on Archives. “Principles of Access to Archives.” 2012.[ ](https://www.ica.org/sites/default/files/ICA\_Access-principles\_EN.pdf)[https://www.ica.org/en/principles-access-archives](https://www.ica.org/en/principles-access-archives)
+
+UTSA Libraries Special Collections. “Know Your Digital Storage Media.” [https://lib.utsa.edu/knowyourmedia/index.html](https://lib.utsa.edu/knowyourmedia/index.html)
 
 ### **Works Consulted**
 
+Caswell, Michelle. “Toward a Survivor-Centered Approach to Human Rights Archives: Lessons from Community-Based Archives.” _Archival Science_ 14, nos. 3–4 (2014): 307–322. [https://doi.org/10.1007/s10502-014-9220-6](https://doi.org/10.1007/s10502-014-9220-6)
 
+Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” _On Archivy_ (blog), April 7, 2016. [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
 
-## SUCCESSFUL ACCESSIONING LABOR PRACTICES <a href="#ecqmgk7glpx9" id="ecqmgk7glpx9"></a>
+Drmacich, Jessika, Kate Dundon, Jessica Farrell, Christina Fidler, Hannah Wang, Camille Watson, and Gayle Schechter. “Legal and Ethical Considerations for Born-Digital Access.” Digital Library Federation Born-Digital Access Working Group, 2022. [https://doi.org/10.17605/OSF.IO/KETR7](https://doi.org/10.17605/OSF.IO/KETR7)
+
+Faulder, Erin, and Laura Uglean Jackson. “Digital Processing: Exploring the Enigma.” _The American Archivist_ 85, no. 1 (2022): 146–72. [https://doi.org/10.17723/2327-9702-85.1.146](https://doi.org/10.17723/2327-9702-85.1.146)
+
+Flynn, Kara. “Issues of Ownership: Leveraging Accession Documentation and Provenance Research to Improve Collection Access.” _Journal of Contemporary Archival Studies_ 7, no. 1 (2020), Article 1. [https://elischolar.library.yale.edu/jcas/vol7/iss1/1](https://elischolar.library.yale.edu/jcas/vol7/iss1/1)
+
+Jones, Barbara. “Hidden Collections, Scholarly Barriers: Creating Access to Unprocessed Special Collections Material in North America’s Research Libraries.” White paper for the Association of Research Libraries Task Force on Special Collections, 2003.[ https://www.arl.org/resources/hidden-collections-scholarly-barriers-creating-access-to-unprocessed-special-collections-materials-innorth-americas-research-libraries/](https://www.arl.org/resources/hidden-collections-scholarly-barriers-creating-access-to-unprocessed-special-collections-materials-innorth-americas-research-libraries/)
+
+Santamaria, Daniel. _Extensible Processing for Archives and Special Collections_. Chicago, IL: American Library Association, 2015.
+
+Weideman, Christine. “Accessioning as Processing.” _The American Archivist_ 69, no. 2 (2006): 274–83. [https://doi.org/10.17723/aarc.69.2.g270566u745j3815](https://doi.org/10.17723/aarc.69.2.g270566u745j3815)
+
+## SUCCESSFUL ACCESSIONING LABOR PRACTICES
 
 ### **Resources**
 
+Society of American Archivists. “Best Practices for Archival Term Positions.” 2023. [https://www2.archivists.org/groups/standards-committee/best-practices-for-archival-term-positions](https://www2.archivists.org/groups/standards-committee/best-practices-for-archival-term-positions)
 
+———. “Best Practices for Internships as a Component of Graduate Archival Education.” 2014. [https://www2.archivists.org/standards/best-practices-for-internships-as-a-component-of-graduate-archival-education](https://www2.archivists.org/standards/best-practices-for-internships-as-a-component-of-graduate-archival-education)
+
+———. “Best Practices for Volunteers in Archives.” 2018. [https://www2.archivists.org/standards/best-practices-for-volunteers-in-archives](https://www2.archivists.org/standards/best-practices-for-volunteers-in-archives)
 
 ### **Works Consulted**
 
+Arnold, Hillel. “Critical Work: Archivists as Maintainers.” _Hillelarnold.com_ (blog), August 2, 2016.[ ](http://hillelarnold.com)[https://hillelarnold.com/blog/2016/08/critical-work](https://hillelarnold.com/blog/2016/08/critical-work)
+
+Caswell, Michelle, and Marika Cifor. “From Human Rights to Feminist Ethics: Radical Empathy in the Archives.” _Archivaria_ 81 (Spring 2016): 23–43. [https://archivaria.ca/index.php/archivaria/article/view/13557](https://archivaria.ca/index.php/archivaria/article/view/13557)
+
+Christen, Kimberly, and Jane Anderson. “Toward Slow Archives.” _Archival Science_ 19, no. 2 (2019): 87–116. [https://doi.org/10.1007/s10502-019-09307-x](https://doi.org/10.1007/s10502-019-09307-x)
+
+Douglas, Jennifer, Alexandra Alisauskas, and Devon Mordell. “‘Treat Them with the Reverence of Archivists’: Records Work, Grief Work, and Relationship Work in the Archives.” _Archivaria_ 88 (Fall 2019): 84–120. [https://archivaria.ca/index.php/archivaria/article/view/13699](https://archivaria.ca/index.php/archivaria/article/view/13699)
+
+Ettarh, Fobazi. “Vocational Awe and Librarianship: The Lies We Tell Ourselves.” _In the Library with the Lead Pipe_, January 10, 2018. [https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/](https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/)
+
+The Information Maintainers, et al. “Information Maintenance as a Practice of Care.” Zenodo, June 17, 2019. [https://doi.org/10.5281/zenodo.3251131](https://doi.org/10.5281/zenodo.3251131)
+
+NDSA Staffing Survey Working Group. “2021 Staffing Survey.” National Digital Stewardship Alliance, August 2022. [https://doi.org/10.17605/OSF.IO/EMWY4](https://doi.org/10.17605/OSF.IO/EMWY4)
+
+Owens, Trevor. “The Innovation Delusion: How Our Obsession with the New Has Disrupted the Work That Matters Most.” _The American Archivist_ 84, no. 2 (2021): 545–48. [https://doi.org/10.17723/0360-9081-84.2.545](https://doi.org/10.17723/0360-9081-84.2.545)
+
+Rodriguez, Sandy, Ruth Tillman, Amy Wickner, Stacie Williams, and Emily Drabinski. “Collective Responsibility: Seeking Equity for Contingent Labor in Libraries, Archives, and Museums.” White paper of Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions, 2019. [https://osf.io/m6gn2/](https://osf.io/m6gn2/)
+
+Russell, Andrew, and Lee Vinsel. “Hail the Maintainers.” _Aeon_, April 7, 2016. [https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
+
+Sayles, Sheridan, L. Rebecca Johnson Melvin, and Amy C. Vo. “Perspectives on Precarity: A Multifaceted Look at the Status of Project Archivists.” Paper presented at the Society of American Archivists 2020 Research Forum, August 2020. [https://udspace.udel.edu/handle/19716/27825](https://udspace.udel.edu/handle/19716/27825)
+
+Shaw, Seth, Richard C. Adler, and Jackie Dooley. _Demystifying IT: A Framework for Shared Understanding between Archivists and IT Professionals_. Dublin, OH: OCLC Research, 2017. [https://doi.org/10.25333/C3192N](https://doi.org/10.25333/C3192N)
+
+Tansey, Eira. “Archives Without archivists.” _Reconstruction: Studies in Contemporary Culture_ 16, no. 1 (2016). _Gale Academic OneFile_ (accessed January 25, 2024). [https://link.gale.com/apps/doc/A484096660/AONE?u=anon\~79cb31df\&sid=googleScholar\&xid=e942864f](https://link.gale.com/apps/doc/A484096660/AONE?u=anon\~79cb31df\&sid=googleScholar\&xid=e942864f)
+
+Williams, S. “All Labor Is Local.” _Medium_ (blog), November 14, 2016.[ https://medium.com/@Wribrarian/all-labor-is-local-344963e33051](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051)
