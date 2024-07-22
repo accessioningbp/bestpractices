@@ -48,3 +48,11 @@ July 2024
 <figure><img src=".gitbook/assets/SAAHoriz Blue.png" alt="Society of American Archivists logo" width="563"><figcaption></figcaption></figure>
 
 </div>
+
+This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/CCby4.png" alt="" width="101"><figcaption></figcaption></figure>
+
+</div>
