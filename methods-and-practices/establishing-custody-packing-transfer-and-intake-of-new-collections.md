@@ -132,10 +132,11 @@ A separate storage area for new acquisitions:
 Most “short-term” storage locations are, at best, “medium-term.” Interim storage locations should be **no less secure or stable than permanent or long-term storage**.
 
 {% hint style="warning" %}
-* **Interim storage is not:**
-  * **Personal workspaces or offices**: Collections kept in personal spaces often go undocumented, putting them at risk of loss and damage. Storage in personal offices can encourage individual feelings of ownership over collections and may expose collections to different environmental and security policies than storage spaces.
-  * **Communal workspaces**: Keeping collections in communal spaces introduces the possibility of confusion and accidental mingling with unrelated materials.
-  * **A permanent backlog**: Consider how to keep accessions visible and accessible to staff to avoid “out of sight, out of mind” backlogs.
+**Interim storage is not:**
+
+* **Personal workspaces or offices**: Collections kept in personal spaces often go undocumented, putting them at risk of loss and damage. Storage in personal offices can encourage individual feelings of ownership over collections and may expose collections to different environmental and security policies than storage spaces.
+* **Communal workspaces**: Keeping collections in communal spaces introduces the possibility of confusion and accidental mingling with unrelated materials.
+* **A permanent backlog**: Consider how to keep accessions visible and accessible to staff to avoid “out of sight, out of mind” backlogs.
 {% endhint %}
 
 ## SECTION 7: INITIAL PHYSICAL INSPECTION AND ASSESSMENT OF PHYSICAL MATERIALS <a href="#section7" id="section7"></a>

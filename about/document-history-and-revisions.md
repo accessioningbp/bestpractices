@@ -14,7 +14,7 @@ To see the full changelog of the Accessioning Best Practices, visit [https://git
 
 ### About Versioning
 
-The Accessioning Best Practices uses semantic versioning, with interpretations borrowed from the Technical Subcommittee on Describing Archives: A Content Standard. Version numbers are represented in the following format: MAJOR.MINOR.PATCH.
+The Accessioning Best Practices uses semantic versioning, with interpretations borrowed from the Technical Subcommittee on _Describing Archives: A Content Standard_. Version numbers are represented in the following format: MAJOR.MINOR.PATCH.
 
 **A major change** is understood as one that changes the interpretation so much as to make previous usage obsolete. It is also significant enough to warrant community feedback. Examples may include:
 
