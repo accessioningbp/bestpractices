@@ -6,7 +6,7 @@ description: The document is currently under review by the SAA Standards Committ
 
 {% tabs %}
 {% tab title="SECTION 16: WHAT IS AN ACCESSION RECORD?" %}
-[BEST PRACTICE 16.1 ➤ Identify who is responsible for creation of accession record](accession-record-elements.md#bp16-1)
+[BEST PRACTICE 16.1 ➤ Identify who is responsible for creation of the accession record](accession-record-elements.md#bp16-1)
 
 [BEST PRACTICE 16.2 ➤ Avoid editing existing accession records](accession-record-elements.md#bp16-2)
 
@@ -22,7 +22,7 @@ description: The document is currently under review by the SAA Standards Committ
 
 ## SECTION 16: WHAT IS AN ACCESSION RECORD? <a href="#section16" id="section16"></a>
 
-The Society of American Archivists’ Dictionary of Archives Terminology defines an accession record as “a consistent and normally internal set of data detailing an archives’ acquisition, documenting legal and physical transfer, and supporting description.” By definition, it is the record of an individual accession that is created and maintained by a collecting institution. Regardless of the format of this record, it consists of a list of specific elements that document critical information about the accession. The accession record is complete when this element list has been filled by the accessioner. Its output serves as the official record of material entering a collection.
+The Society of American Archivists’ _Dictionary of Archives Terminology_ defines an accession record as “a consistent and normally internal set of data detailing an archives’ acquisition, documenting legal and physical transfer, and supporting description.” By definition, it is the record of an individual accession that is created and maintained by a collecting institution. Regardless of the format of this record, it consists of a list of specific elements that document critical information about the accession. The accession record is complete when this element list has been filled by the accessioner. Its output serves as the official record of material entering a collection.
 
 An accession record:
 
@@ -35,13 +35,13 @@ An accession record:
 **The accession record is a historical record of receipt that documents the singular moment in time for an acquisition.**
 {% endhint %}
 
-### **The Role Of DACS And Other Standards In The Design of the Accession Record Elements Set**
+### The Role of DACS and Other Standards in the Design of the Accession Record Elements Set
 
 The accession record element set is designed to comply with _DACS_ and complement _ISAD(G)_, its international equivalent. It also takes inspiration from the _Canadian Archival Accessioning Information Standard (CAAIS)_. These recognized content standards inform elements of the accession record that are either required or optional and advise how to indicate when information is unknown. _See_ [_Appendix A for a crosswalk between the accession record elements_](appendices/appendix-a.-accession-record-elements-crosswalk.md) _and their relation to_ DACS, ISAD(G), _and_ CAAIS.
 
 This element set is intended to guide archival repositories to make the majority of information in accession records reusable and quickly discoverable, per _DACS_, _ISAD(G)_, and _CAAIS_ principles, but this is at the discretion of the repository and its mission.
 
-Additionally, in adherence to _DACS_ Principle 3  indicating that descriptive rules apply to all archival materials, regardless of format, carrier type, content, or genre, the accession record element set is informed by standards and best practices for the acquisition and description of born-digital content, including PREMIS, OAIS, and TRAC.
+Additionally, in adherence to _DACS_ Principle 3 indicating that descriptive rules apply to all archival materials, regardless of format, carrier type, content, or genre, the accession record element set is informed by standards and best practices for the acquisition and description of born-digital content, including PREMIS, OAIS, and TRAC.
 
 The accession record’s required element set reflects three specific attributes of _DACS_:
 
@@ -51,9 +51,9 @@ The accession record’s required element set reflects three specific attributes
 
 _DACS_ Principle 6 for archival description encourages archivists to “document and make discoverable the actions they take on records.” This element set records interventions like appraisal and transfer and documents pre-custodial information about archival materials like provenance and chain of custody.
 
-#### <mark style="color:blue;">BEST PRACTICE 16.1 ➤  Identify who is responsible for creation of accession record</mark> <a href="#bp16-1" id="bp16-1"></a>
+#### <mark style="color:blue;">BEST PRACTICE 16.1 ➤  Identify who is responsible for creation of the accession record</mark> <a href="#bp16-1" id="bp16-1"></a>
 
-These best practices do not prescribe who in a repository should be responsible for collecting and recording the various elements of an accession record. Determining who is responsible for each part of the record, who creates it, and how all stakeholders know that an accession record has been completed is an important internal workflow decision that must be determined, documented, and communicated clearly.
+These best practices do not prescribe _who_ in a repository should be responsible for collecting and recording the various elements of an accession record. Determining who is responsible for each part of the record, who creates it, and how all stakeholders know that an accession record has been completed is an important internal workflow decision that must be determined, documented, and communicated clearly.
 
 #### <mark style="color:blue;">BEST PRACTICE 16.2 ➤  Avoid editing existing accession records</mark> <a href="#bp16-2" id="bp16-2"></a>
 
@@ -111,7 +111,7 @@ This element documents the date the accession record was either created or compl
 
 **Guidelines**:
 
-* Individual institutional practices will determine which date your institution will use for Date Accessioned (e.g., date accessioning commenced, date accessioning completed). **Pick one approach and consistently apply this date type in the Date Accessioned element to all Accession Records.**
+* Individual institutional practices will determine which date your institution will use for Date Accessioned (e.g., date accessioning commenced, date accessioning completed). **Pick one approach and consistently apply this date type in the Date Accessioned element to all accession records.**
 * The date accessioned can be recorded via the timestamp the accession record was created when using databases.
 * The date the accession record was created or completed may not be the same as the date the collection was acquired. The date the collection was acquired should be put into the [Immediate Source of Acquisition element](accession-record-elements.md#required-element-12-immediate-source-of-acquisition) and/or the [Date Acquired](accession-record-elements.md#optional-element-14-date-acquired) element.
 
@@ -131,7 +131,7 @@ The process for designing any identifier should be guided by core information ma
 * **Avoid including information in your identifier that may change**, such as storage location, access restrictions, handling concerns, processing status, or legal status.
 * **Do not reassign or delete identifiers that have been used** or referenced by internal staff or the external public. An accession record is documentation of the acquisition of materials by an archival repository. Deaccessioning, loss, transfer, or other activities that affect the subsequent custody or status of an accession do not change the facts of that original record.
 * **Consider these possible parts of an accession identifier:**
-  * **Accession year**. This may be the fiscal year, the calendar year, academic year, or any other clearly—and publicly—documented scheme.
+  * **Accession year**. This may be the fiscal year, the calendar year, the academic year, or any other clearly—and publicly—documented scheme.
   * **Incrementing integer.**
     * Each should be unique.
     * It is not necessary for these numbers to be in the same order as materials were acquired (chronologically), since this information can be determined as part of the accession date.
@@ -147,7 +147,7 @@ This element is an initial descriptive phrase by which an accession is identifie
 
 **Guidelines**:
 
-* Create DACS-compliant titles for the accession at-hand.
+* Create _DACS_-compliant titles for the accession at-hand.
 * Be specific enough to identify the material in the accession.
 * For accretions to existing collections, the accession title may be different than the collection title. This helps distinguish different accretions to the same collection.
 
@@ -173,7 +173,7 @@ This element records the extent and physical nature of the materials **at the en
 
 * **Standardize description using common units** (e.g., linear feet, gigabytes, number of containers). Consistency aids in reporting and aggregation.
 * This element is repeatable. **Consider creating multiple extent statements for the accession**. Optionally record quantities of specific formats in separate extent statements (e.g., audiocassettes, digital files, maps, photographs).
-* If different, optionally record the extent of the materials received using the [Extent(s) Received](accession-record-elements.md#optional-element-15-extent-s-received) element
+* If different, optionally record the extent of the materials received using the [Extent(s) Received](accession-record-elements.md#optional-element-15-extent-s-received) element.
 * Explain appraisal actions that account for discrepancies in the extent received and retained using the [Appraisal Decisions](accession-record-elements.md#optional-element-18-appraisal-decisions) element.
 
 _**DACS**_** element**: _2.5, Extent_

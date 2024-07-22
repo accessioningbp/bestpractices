@@ -187,7 +187,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 #### [Section 16: What is an Accession Record?](appendix-b.-best-practices-at-a-glance.md#tcy7futipum4) <a href="#tcy7futipum4" id="tcy7futipum4"></a>
 
-[BEST PRACTICE 16.1](../accession-record-elements.md#bp16-1) ➤  Identify who is responsible for creation of accession record
+[BEST PRACTICE 16.1](../accession-record-elements.md#bp16-1) ➤  Identify who is responsible for creation of the accession record
 
 [BEST PRACTICE 16.2](../accession-record-elements.md#bp16-2) ➤  Avoid editing existing accession records
 
