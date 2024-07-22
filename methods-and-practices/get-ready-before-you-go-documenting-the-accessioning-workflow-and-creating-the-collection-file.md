@@ -23,7 +23,7 @@ layout:
 {% endtab %}
 
 {% tab title="SECTION 2: THE COLLECTION FILE" %}
-[<mark style="color:blue;">BEST PRACTICE 2.1 ➤  Compile accessioning documentation and information in the collection file</mark>](get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#section-2-the-collection-file)
+[<mark style="color:blue;">BEST PRACTICE 2.1 ➤  Compile accessioning documentation and information in the collection file</mark>](get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp2-1)
 {% endtab %}
 {% endtabs %}
 
