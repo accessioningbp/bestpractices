@@ -26,4 +26,4 @@
     * [SAMPLE ACCESSIONING WORKFLOW CHECKLIST](appendices/appendix-d.-templates/sample-accessioning-workflow-checklist.md)
     * [PRE-ACQUISITION COLLECTION SURVEY](appendices/appendix-d.-templates/pre-acquisition-collection-survey.md)
     * [PARTNERS IN ACCESSIONING: ENVIRONMENTAL SCAN](appendices/appendix-d.-templates/partners-in-accessioning-environmental-scan.md)
-  * [Appendix E. Bibliography & Resources](appendices/appendix-e.-bibliography-and-resources.md)
+  * [Appendix E. Bibliography and Resources](appendices/appendix-e.-bibliography-and-resources.md)
