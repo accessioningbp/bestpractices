@@ -53,6 +53,6 @@ This work is licensed under [Creative Commons Attribution 4.0 International](htt
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/CCby4.png" alt="" width="101"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CCby4.png" alt="CC By 4.0 icon" width="101"><figcaption></figcaption></figure>
 
 </div>

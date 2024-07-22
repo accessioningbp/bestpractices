@@ -10,21 +10,21 @@ The Best Practices are structured to facilitate practical reference. They begin 
 
 **Best practice statements** are included throughout these guidelines and are intended as a principal recommendation with foundational actions applicable in many contexts. Each statement is followed by additional explanations, definitions, guidance, and steps for meeting desired outcomes.
 
-Some “best practice” statements are **followed by “additional considerations” or steps for “going further”** to provide flexibility and adaptability. “Going Further” recommendations are a way to do more, or move beyond what is essential, but are not innately better; they are simply practices that might be relevant in individual contexts.
+Some “best practice” statements are **followed by “additional considerations” or steps for “going further”** to provide flexibility and adaptability. “Going Further” recommendations are a way to do more, or move beyond what is essential, but _are not innately better_; they are simply practices that might be relevant in individual contexts.
 
-_For quick reference of all best practice recommendations, see_ [_Appendix B. Best Practices At-a-Glance._](../appendices/appendix-b.-best-practices-at-a-glance.md)
+For a quick reference to all best practice recommendations, see [_Appendix B. Best Practices At-a-Glance._](../appendices/appendix-b.-best-practices-at-a-glance.md)
 
 {% hint style="warning" %}
 **A note on the use of “best”**\
-An inability to meet a best practice should not be considered a failure! This word has power, both to diminish important labor limited by outside forces, but also to support advocacy for accessioning resources.
+An inability to meet a best practice should not be considered a failure! The word “best” has power, both to diminish important labor limited by outside forces and to support advocacy for accessioning resources.
 {% endhint %}
 
-### **Structure & Organization**
+### **Structure and Organization**
 
 The Best Practices consist of four parts:
 
 * **Guiding Principles:** This chapter consists of foundational positions that serve as a conceptual reference point for accessioning work and provide an ethical grounding for practical accessioning decisions.
-* **Methods & Practices:** The majority of the Best Practices takes the reader through the activities that occur during accessioning work, with a stated “best practice” recommendation grounded in practical implementation approaches and intended outcomes. This chapter also includes recommendations for successful accessioning labor practices that propose a multifaceted understanding of the accessioning archivist, and it offers guidelines for creating accessioning positions.
+* **Methods and Practices:** The majority of the Best Practices takes the reader through the activities that occur during accessioning work, with a stated “best practice” recommendation grounded in practical implementation approaches and intended outcomes. This chapter also includes recommendations for successful accessioning labor practices that propose a multifaceted understanding of the accessioning archivist, and it offers guidelines for creating accessioning positions.
 * **Accession Record Elements:** This chapter provides system-agnostic guidance on the creation and maintenance of accession records. It includes a recommended elements set.
 * **Appendices:** The Best Practices conclude with complementary resources that individuals may wish to consult in the course of reflecting upon their accessioning practices. The appendices consist of a metadata crosswalk, a compiled list of all best practice recommendations, an expanded exploration of accessioning partners, templates of workflow documents, and a bibliography.
 
