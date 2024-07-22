@@ -19,7 +19,7 @@ layout:
 {% tab title="SECTION 5: PACKING AND INTAKE OF PHYSICAL COLLECTIONS" %}
 [BEST PRACTICE 5.1 ➤ Pack collections in situ whenever possible](establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-1)
 
-[BEST PRACTICE 5.2 ➤ Pack only what has been acquired. Appraise again while packing, if needed](establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-2)
+[BEST PRACTICE 5.2 ➤ Pack only what is being acquired and appraise again while packing, if needed](establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-2)
 
 [BEST PRACTICE 5.3 ➤ Pack collections for safe transport](establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-3)
 
@@ -132,11 +132,10 @@ A separate storage area for new acquisitions:
 Most “short-term” storage locations are, at best, “medium-term.” Interim storage locations should be **no less secure or stable than permanent or long-term storage**.
 
 {% hint style="warning" %}
-**Interim storage is not:**
-
-* **Personal workspaces or offices**: Collections kept in personal spaces often go undocumented, putting them at risk of loss and damage. Storage in personal offices can encourage individual feelings of ownership over collections and may expose collections to different environmental and security policies than storage spaces.
-* **Communal workspaces**: Keeping collections in communal spaces introduces the possibility of confusion and accidental mingling with unrelated materials.
-* **A permanent backlog**: Consider how to keep accessions visible and accessible to staff to avoid “out of sight, out of mind” backlogs.
+* **Interim storage is not:**
+  * **Personal workspaces or offices**: Collections kept in personal spaces often go undocumented, putting them at risk of loss and damage. Storage in personal offices can encourage individual feelings of ownership over collections and may expose collections to different environmental and security policies than storage spaces.
+  * **Communal workspaces**: Keeping collections in communal spaces introduces the possibility of confusion and accidental mingling with unrelated materials.
+  * **A permanent backlog**: Consider how to keep accessions visible and accessible to staff to avoid “out of sight, out of mind” backlogs.
 {% endhint %}
 
 ## SECTION 7: INITIAL PHYSICAL INSPECTION AND ASSESSMENT OF PHYSICAL MATERIALS <a href="#section7" id="section7"></a>
@@ -162,7 +161,7 @@ Any notable discoveries that arise during the initial physical inspection can be
 
 #### <mark style="color:blue;">BEST PRACTICE 7.2 ➤  Assign unique identifiers and track physical location</mark> <a href="#bp7-2" id="bp7-2"></a>
 
-Once the collection has arrived and has been inspected, track the location of the materials and physically mark the containers indicating to which collection they belong. **A unique identifier should be assigned to the materials as soon as possible upon arrival** at the archival repository to tie all materials from one accession together. This might be an accession number, a collection number, or a temporary intake number. Whichever identifying schema is used should be employed consistently across all collections. Containers should be clearly marked with the identifier, as well as the storage location if needed. _Additional guidance on formulating accession identifiers is in the_ [_Accession Record Elements_](../accession-record-elements.md) _chapter._
+Once the collection has arrived and has been inspected, track the location of the materials and physically mark the containers indicating to which collection they belong. **A unique identifier should be assigned to the materials as soon as possible upon arrival** at the archival repository to tie all materials from one accession together. This might be an accession number, a collection number, or a temporary intake number. Whichever identifying schema is used should be employed consistently across all collections. Containers should be clearly marked with the identifier, as well as the storage location if needed. _Additional guidance on formulating accession identifiers is in the_ [_Accession Record Elements_](../accession-record-elements.md#required-element-3-accession-identifier) _chapter._
 
 The location of the new materials should be recorded in an archival collection management system, shelf list, or any other method used by the repository for stacks management.
 
@@ -176,7 +175,7 @@ Document the types of materials, quantities, reason for refusal, and the date an
 
 The integrity and fixity of digital materials is paramount during the transfer process. File metadata, including create/modify/access dates, can be unintentionally altered and lost during this stage of accessioning, compromising the evidentiary value of the records. For this reason, staff should not move or copy files (and remember to instruct donors and record sources not to move or copy files) without careful planning.
 
-This section does not identify or endorse specific tools, software programs, or hardware due to the likelihood of institutional preferences and the rapid pace of technological change. _Instead, refer to_ [_Appendix E. Bibliography & Resources_](../appendices/appendix-e.-bibliography-and-resources.md).
+This section does not identify or endorse specific tools, software programs, or hardware due to the likelihood of institutional preferences and the rapid pace of technological change. _Instead, refer to_ [_Appendix E. Bibliography and Resources_](../appendices/appendix-e.-bibliography-and-resources.md).
 
 To assess born-digital materials, repositories need the following:
 
@@ -192,7 +191,7 @@ The following may also be needed:
 * Web-recorder or crawler
 * Browser-based transfer utility
 
-### **Transfer And Intake of Born-Digital Materials**
+### **Transfer and Intake of Born-Digital Materials**
 
 #### BORN-DIGITAL <mark style="color:blue;">BEST PRACTICE 8.1 ➤ Select a transfer method suitable for the source and the needs of the content</mark> <a href="#bp8-1" id="bp8-1"></a>
 

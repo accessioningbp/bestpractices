@@ -47,7 +47,7 @@ layout:
 
 [BEST PRACTICE 4.8 ➤ Have a deaccession plan](pre-custodial-considerations.md#bp4-8)
 
-[BORN-DIGITAL BEST PRACTICE 4.9 ➤ Include born-digital materials within legal agreements](pre-custodial-considerations.md#bp4-9)
+[BORN-DIGITAL BEST PRACTICE 4.9 ➤ Include born-digital materials in legal agreements](pre-custodial-considerations.md#bp4-9)
 
 [BEST PRACTICE 4.10 ➤ Establish a policy for accessioning collections on deposit](pre-custodial-considerations.md#bp4-10)
 
@@ -64,7 +64,7 @@ This chapter is not meant to be an exhaustive resource on the acquisition proces
 Choices about what to collect—and how those choices are documented—significantly impact whether or not collection materials can be accessioned in a timely, thorough manner. An institution’s mission statement, collection development policy, and other applicable policies serve as guiding frameworks for collecting priorities, limits, and obligations; however, professional judgment and ethics should also guide each assessment. The total cost of acquisition, stewardship, and environmental impact should be factored into the appraisal and selection of material.
 
 {% hint style="success" %}
-**External Resource:** Resources such as OCLC’s[ Total Cost of Stewardship](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html) provide tools to understand and communicate financial costs of acquiring and maintaining collections in all formats, including born-digital materials.
+**External Resource:** Resources such as OCLC’s [_Total Cost of Stewardship_](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html) provide tools to understand and communicate financial costs of acquiring and maintaining collections in all formats, including born-digital materials.
 {% endhint %}
 
 #### <mark style="color:blue;">BEST PRACTICE 3.1 ➤  Involve accessioning staff early in the acquisition process</mark> <a href="#bp3-1" id="bp3-1"></a>
@@ -77,7 +77,7 @@ Curatorial and collection-building staffing models vary across repositories. In 
 
 **Photographing the collection prior to packing is also recommended**. Images can vary in their usefulness as a reference source, but consider capturing the general layout of the storage area, existing labels and descriptions on containers, and oversized or otherwise distinctive items. If time constraints mean that quickly photographing a collection is the only documentation option available, plan to **annotate the images** to contextualize what they show.
 
-**Document any pre-custodial surveys** and add this documentation to the repository’s control file. _Appendix D includes a_ [_pre-acquisition collection survey_](../appendices/appendix-d.-templates/#jg4ze9ul12m5) _that provides an example of information that should be gathered and documented during the pre-custodial stage._
+**Document any pre-custodial surveys** and add this documentation to the repository’s control file. _Appendix D includes a_ [_pre-acquisition collection survey_](../appendices/appendix-d.-templates/pre-acquisition-collection-survey.md) _that provides an example of information that should be gathered and documented during the pre-custodial stage._
 
 #### <mark style="color:blue;">BEST PRACTICE 3.3 ➤  Solicit source-provided description of potential acquisitions</mark> <a href="#bp3-3" id="bp3-3"></a>
 
@@ -147,7 +147,7 @@ Create an explicit policy for accessioning materials that are physically transfe
 
 Sometimes, despite thorough appraisal efforts, collections will contain material that is outside the interest or collecting scope of the institution, or that presents storage or access challenges. Common examples include published materials, awards, and personal effects. **The legal agreement should outline the institution’s process for deaccessioning out-of-scope material.** It is common practice to give contributors the option to have materials returned to them, but given the long lifespan of the care of materials, it can be an administrative burden to locate creators or their heirs. Instead, **inform contributors that duplicative materials or materials with low research, evidentiary, or symbolic value that the archives does not wish to retain will be responsibly discarded**. If the contributor insists on having materials returned, record this within the legal agreement and set a limited timespan on this requirement, contingent upon notice of any change of address or contact information. If there is no donor to accept the deaccessioned materials, dispose of them in a responsible manner, including destruction or offering to another institution.
 
-#### BORN-DIGITAL <mark style="color:blue;">BEST PRACTICE 4.9 ➤  Include born-digital materials within legal agreements</mark> <a href="#bp4-9" id="bp4-9"></a>
+#### BORN-DIGITAL <mark style="color:blue;">BEST PRACTICE 4.9 ➤  Include born-digital materials in legal agreements</mark> <a href="#bp4-9" id="bp4-9"></a>
 
 Whether an accession is fully born-digital or a mix of physical and born-digital materials, having provisions that define what actions can and will be taken with digital materials is critical for accessioning staff to complete their work. Electronic records transferred on computer media may contain information—deleted, overwritten, or otherwise hidden—not necessarily known to the creator but potentially recoverable by the archives. **The legal agreement should include explicit consent from the source for the institution to access and preserve data embedded in born-digital records, including hidden and deleted files, log files, and system files.** Sources should agree that staff may need to unlock passwords or bypass encryption.
 

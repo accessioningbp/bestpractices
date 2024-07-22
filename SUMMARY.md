@@ -10,7 +10,7 @@
   * [The Road to Best Practices](introduction/the-road-to-best-practices.md)
   * [How to Use This Resource](introduction/how-to-use-this-resource.md)
 * [GUIDING PRINCIPLES](guiding-principles.md)
-* [METHODS & PRACTICES](methods-and-practices/README.md)
+* [METHODS AND PRACTICES](methods-and-practices/README.md)
   * [Get Ready Before You Go! Documenting the Accessioning Workflow and Creating the Collection File](methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md)
   * [Pre-Custodial Considerations](methods-and-practices/pre-custodial-considerations.md)
   * [Establishing Custody: Packing, Transfer, and Intake of New Collections](methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md)

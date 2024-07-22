@@ -17,9 +17,9 @@ layout:
 
 {% tabs %}
 {% tab title="SECTION 1: ACCESSIONING WORKFLOW" %}
-<mark style="color:blue;">BEST PRACTICE 1.1 ➤  Create and use a system to track accessioning work</mark>
+[<mark style="color:blue;">BEST PRACTICE 1.1 ➤  Create and use a system to track accessioning work</mark>](get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp1-1)
 
-<mark style="color:blue;">GOING FURTHER 1.2 ➤  Systematically track accessioning labor and capacity</mark>
+[<mark style="color:blue;">GOING FURTHER 1.2 ➤  Systematically track accessioning labor and capacity</mark>](get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp1-2)
 {% endtab %}
 
 {% tab title="SECTION 2: THE COLLECTION FILE" %}
@@ -33,7 +33,7 @@ Used in tandem, an accessioning workflow and the collection file capture and com
 
 ## SECTION 1: ACCESSIONING WORKFLOW <a href="#section1" id="section1"></a>
 
-An accessioning workflow comprises a sequence of events and activities required to acquire, intake, and stabilize new archival materials. _See Appendix D for a_ [_sample accessioning workflow checklist_.](../appendices/appendix-d.-templates/#sample-accessioning-workflow-checklist)
+An accessioning workflow comprises a sequence of events and activities required to acquire, intake, and stabilize new archival materials. _See Appendix D for a_ [_sample accessioning workflow checklist_.](../appendices/appendix-d.-templates/sample-accessioning-workflow-checklist.md)
 
 {% hint style="success" %}
 **Tip!** Use these best practices as inspiration for the types of activities to include in an accessioning workflow.
@@ -47,7 +47,7 @@ A tracking system helps archivists adhere to local accessioning protocols and ef
 
 * **Prescriptive and direct**: It should succinctly list the tasks needed to accession a collection at the archival repository, from pre-custodial work to description and access.
 * **Accessible**: It should be easily available to all stakeholders who need to know the status of an acquisition in the accessioning process.
-* **Reusable, but flexible**: Most accessioning procedures will be the same with each acquisition; however, some situations may require adjustments to the workflow to include slightly different tasks.
+* **Reusable but flexible**: Most accessioning procedures will be the same with each acquisition; however, some situations may require adjustments to the workflow to include slightly different tasks.
 
 #### GOING FURTHER 1.2 ➤  Systematically track accessioning labor and capacity <a href="#bp1-2" id="bp1-2"></a>
 
@@ -95,7 +95,7 @@ The collection file typically contains documentation that contextualizes the sel
   * May also include legacy inventories created by the repository
 
 {% hint style="success" %}
-**Tip!** This information can be repurposed for accession records, finding aids, and other catalog records.  &#x20;
+**Tip!** This information can be repurposed for accession records, finding aids, and other catalog records.
 {% endhint %}
 
 * **Processing and preservation documentation**: Documentation about the repository’s processing treatment of a collection.

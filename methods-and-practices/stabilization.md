@@ -16,7 +16,7 @@ layout:
 # Stabilization
 
 {% tabs %}
-{% tab title="Section 9: REHOUSING" %}
+{% tab title="SECTION 9: REHOUSING" %}
 [BEST PRACTICE 9.1 ➤ House for stabilization](stabilization.md#bp9-1)
 
 [ADDITIONAL CONSIDERATIONS ➤ House with users in mind](stabilization.md#additional-considerations-house-with-users-in-mind)
@@ -41,7 +41,7 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-After accessioning, collection materials may sit in storage for a long duration of time before they are processed or made available to users. Ensuring the materials are stabilized during this interim period is crucial, as it may be months or years before the materials are handled again. Stabilization, as used in the Best Practices, refers to the actions that **ensure materials can be reliably located, safely moved, and protected from needless damage or deterioration** until they receive further attention. These stabilization best practices enable future access and use of the collection material.
+After accessioning, collection materials may sit in storage for a long duration of time before they are processed or made available to users. Ensuring the materials are stabilized during this interim period is crucial, as it may be months or years before the materials are handled again. _Stabilization_, as used in the Best Practices, refers to the actions that **ensure materials can be reliably located, safely moved, and protected from needless damage or deterioration** until they receive further attention. These stabilization best practices enable future access and use of the collection material.
 
 ## SECTION 9: REHOUSING <a href="#section9" id="section9"></a>
 
@@ -53,13 +53,15 @@ Accessioning provides the perfect opportunity to assess storage containers for l
 
 Consider the following recommendations:
 
-**Primary Containers**
+***
+
+**PRIMARY CONTAINERS**
 
 <table data-full-width="false"><thead><tr><th>Recommendations for Stable Housing</th><th>Desired Outcomes/Potential Risks</th></tr></thead><tbody><tr><td>Intact, securely fitting lid</td><td>Keeps the container closed and protects contents. May enable minimal stacking during storage or transport.</td></tr><tr><td>Structurally intact and free of rips, dents, or damaged edges or corners, with a strong secure base</td><td>Can be safely moved without risking breakage, holds together on the shelf, and protects and supports contents.</td></tr><tr><td>Fits securely on repository shelving, without hanging over the edge</td><td><p>Containers fit fully on shelves without hanging over and risking injury to people and materials. Containers fit on shelves compactly, making the most use of available shelving.</p><p></p><p>Containers can be shelved with other collections, without resorting to storage on floors, worksurfaces, or other non-standard storage locations that may result in damage or loss.</p></td></tr><tr><td>Clearly labeled with collection name, unique identifier (accession number or call number), and container unique identifier (box number)</td><td>Containers can be identified and tracked.</td></tr><tr><td>Free of active mold, insects, pollutants, irritants, and excessive dirt or dust</td><td>Longer-term stability, avoid damage to contents and other collections, safe for people to handle.</td></tr><tr><td>Within appropriate weight limits for safe handling</td><td>Containers can be safely accessed, examined, and moved by people.</td></tr></tbody></table>
 
+***
 
-
-**Stabilizing Materials Inside Containers**
+**STABILIZING MATERIALS INSIDE CONTAINERS**
 
 <table><thead><tr><th width="375">Recommendations for Stable Housing</th><th>Desired Outcomes/Potential Risks</th></tr></thead><tbody><tr><td>Materials fit snugly in containers without being overfilled (avoid bowing sides or material that can’t easily be removed)</td><td>Bowed, overpacked containers strain the structural integrity of containers and keep lids from fitting securely. Tightly packed containers make it difficult to remove and replace material without damage.</td></tr><tr><td>Underfilled containers are supported either with spacers or by rehousing in appropriately sized containers</td><td>Underfilled containers without spacers will cause folders and material to slump or bend. Materials may also slide to one end, making the box unbalanced and potentially dangerous for people removing boxes from shelves.</td></tr><tr><td>Remove or safely wrap sharp or potentially harmful items</td><td>Protects people from injury and protects adjacent materials from damage.</td></tr></tbody></table>
 
@@ -78,13 +80,15 @@ Optionally, rehouse collections during accessioning into user-friendly, uniform 
 
 The following additional recommendations for collection storage containers align closer to final storage recommendations.
 
-**Primary Containers**
+***
+
+**PRIMARY CONTAINERS**
 
 <table><thead><tr><th width="362">Recommendations for Stable Housing</th><th>Desired Outcomes/Potential Risks</th></tr></thead><tbody><tr><td>Use archival containers only</td><td>Clean, consistent storage containers support long-term preservation and enable efficient stacks management.</td></tr><tr><td>Separate material by size into appropriately sized archival containers (e.g., manuscript cases, flat oversized boxes, and archival cartons)</td><td>Appropriately sized containers prevent jostling, which can damage materials.</td></tr></tbody></table>
 
+***
 
-
-**Stabilizing Materials Inside Containers**
+**STABILIZING MATERIALS INSIDE CONTAINERS**
 
 <table><thead><tr><th width="362">Recommendations for Stable Housing</th><th>Desired Outcomes/Potential Risks</th></tr></thead><tbody><tr><td>All materials are in folders or secondary enclosures within the box and enclosures are minimally labeled (e.g., box/folder number or title)</td><td><p>Allows a user to distinguish one grouping from another and select and safely remove one folder at a time from a container.</p><p></p><p>Protects material from abrasion and unnecessary handling that may deteriorate and damage materials over time.</p></td></tr><tr><td>Rehouse AV carriers into specific housing made for AV, particularly carriers not in cases, or for film stored in metal or unvented cans</td><td>Protects material from abrasion and unnecessary handling that may deteriorate and damage materials over time, and slows deterioration caused by inherent vice.</td></tr></tbody></table>
 
@@ -94,7 +98,7 @@ The process of rehousing materials, for whatever archival purpose it serves, may
 
 Changes to original housing and physical arrangement should be noted in the repository’s system of record for collection documentation.
 
-## Section 10: PRESERVATION <a href="#section10" id="section10"></a>
+## SECTION 10: PRESERVATION <a href="#section10" id="section10"></a>
 
 Preservation is a necessary component of archival management as it ensures materials are stabilized and accessible. Accessioning provides an opportunity to address preservation issues and ensures long-term stability of materials. **Assessing the physical condition of materials and addressing immediate preservation concerns should be a high priority during accessioning.** What is considered an immediate preservation issue will depend on an institution’s resources and desired outcomes.
 
@@ -131,7 +135,7 @@ Practices for audiovisual and born-digital materials are institutionally specifi
 * **Identify and document problematic media**
   * **Audiovisual**: Inspect for the presence of photographic and motion picture film that may pose a risk, such as cellulose nitrate (a fire safety hazard) and cellulose acetate (prone to vinegar syndrome). Refer to film identification resources for help identifying film formats.
     * Add A-D strips to housing for acetate motion picture film to test for vinegar syndrome and assess the state of deterioration.
-    * Nitrate film may need to be segregated or prioritized for reformatting (followed by safe disposal), depending on local fire regulations and institutional capacity to meet the standards prescribed by the National Fire Protection Association’s NFPA 40: Standard for the Storage and Handling of Cellulose Nitrate Film.
+    * Nitrate film may need to be segregated or prioritized for reformatting (followed by safe disposal), depending on local fire regulations and institutional capacity to meet the standards prescribed by the National Fire Protection Association’s _NFPA 40: Standard for the Storage and Handling of Cellulose Nitrate Film_.
   * **Born-digital**: Identify vulnerable or uncommon formats that may require specialized hardware to access.
 * **Reroute materials removed from original locations**
   * Assign unique identifiers to media carriers at the item level. Labeling physical media ensures that items retain an intellectual connection to their collection of origin.
@@ -168,7 +172,7 @@ Digital files or packages should be deposited into a designated storage area. Ke
 
 #### BORN-DIGITAL <mark style="color:blue;">BEST PRACTICE 10.6 ➤  Keep multiple copies of digital files</mark> <a href="#bp10-6" id="bp10-6"></a>
 
-The standard for digital preservation storage is to maintain multiple copies. Redundancy ensures that if corruption or failure affects any one copy, the other copies can be used to replace it. Remember the acronym **LOCKSS**: Lots of Copies Keeps Stuff Safe! When storing copies, ensure that:
+The standard for digital preservation storage is to maintain multiple copies. Redundancy ensures that if corruption or failure affects any one copy, the other copies can be used to replace it. Remember the acronym **LOCKSS**: _Lots of Copies Keeps Stuff Safe!_ When storing copies, ensure that:
 
 * **Copies are geographically distributed**. Geographic distribution protects from system outages and natural disaster threats.
 * **Copies are contained on different storage media types**. Media diversification protects digital content from known vulnerabilities or user error. There are a number of storage options that can be combined, such as hard drives with inbuilt redundancy and recovery, tape storage, and cloud storage. Storage configurations will need to be monitored to ensure data integrity. Staff can automate monitoring, which might entail tracking when files have been changed or moved and checking file fixity through checksums.

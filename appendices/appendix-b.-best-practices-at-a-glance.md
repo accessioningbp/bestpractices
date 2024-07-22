@@ -59,7 +59,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 4.8](../methods-and-practices/pre-custodial-considerations.md#bp4-8) ➤  Have a deaccession plan
 
-[BORN-DIGITAL](../methods-and-practices/pre-custodial-considerations.md#bp4-9) [BEST PRACTICE 4.9](../methods-and-practices/pre-custodial-considerations.md#bp4-9) ➤  Include born-digital materials within legal agreements
+[BORN-DIGITAL](../methods-and-practices/pre-custodial-considerations.md#bp4-9) [BEST PRACTICE 4.9](../methods-and-practices/pre-custodial-considerations.md#bp4-9) ➤  Include born-digital materials in legal agreements
 
 [BEST PRACTICE 4.10](../methods-and-practices/pre-custodial-considerations.md#bp4-10) ➤  Establish a local policy for accessioning collections on deposit
 
