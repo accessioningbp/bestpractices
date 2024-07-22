@@ -72,3 +72,7 @@ A site visit may not always be possible, particularly if the collection is not h
   * [ ] Brief descriptions of containers and whether file/box labels are descriptive and accurate
   * [ ] Type (make/model) and content of media carriers, as well as description labels added by creator/donor. Note if cords are included or missing.
   * [ ] Details on computer operating system, software, and other hardware such as cameras or intermediary storage devices
+
+***
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_preacquisition collection survey.pdf" %}

@@ -35,3 +35,7 @@ For each identified partner, ask yourself:
 The following table, adapted from a SWOT analysis, can be used to record notes during an environmental scan and can help you learn more about how key relationships impact your work. SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. A SWOT analysis is often used in strategic or project planning to better understand an operational environment and the internal and external forces at work.
 
 <table data-full-width="false"><thead><tr><th>Partner</th><th>Opportunities</th><th>Risks</th><th>Benefits from Accessioning</th><th>Communication Style</th></tr></thead><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+***
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_partners environmental scan.pdf" %}

@@ -101,3 +101,7 @@ See Creating Resource Records in the Accessioning and Processing Manual for deta
 * [ ] Cataloged event record created
 
 _If the collection is two linear feet or smaller, or if materials are uniform in format or arrangement and can be adequately described in a catalog record, processing stops here._
+
+***
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_accessioning workflow checklist.pdf" %}
