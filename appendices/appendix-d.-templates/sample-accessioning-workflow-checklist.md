@@ -15,7 +15,7 @@ layout:
 
 # SAMPLE ACCESSIONING WORKFLOW CHECKLIST
 
-The following sample checklist, created by the University of Santa Cruz Special Collections & Archives (SCA), should not be considered prescriptive and is provided as one example of what a complete accessioning workflow could look like in practice. Not all elements of this example workflow will work for all institutions. Use the Best Practices guidelines to create a checklist that fits your environment.
+The following sample checklist, created by the University of Santa Cruz Special Collections & Archives (SCA), should not be considered prescriptive and is provided as _one_ example of what a complete accessioning workflow could look like in practice. Not all elements of this example workflow will work for all institutions. Use the Best Practices guidelines to create a checklist that fits your environment.
 
 ## Assess operational impact and capacity
 

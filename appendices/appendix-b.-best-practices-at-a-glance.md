@@ -17,17 +17,17 @@ layout:
 
 This appendix consists of the compiled best practice recommendations in an abbreviated format that can be used as a pocket guide to accessioning. Please refer to the full text for each of the recommendations for explanations and more detailed guidance.
 
-#### [Section 1: Accessioning Workflow](appendix-b.-best-practices-at-a-glance.md#section-1-accessioning-workflow)
+#### [Section 1: Accessioning Workflow](../methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#section1)
 
 [BEST PRACTICE 1.1](../methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp1-1) ➤  Create and use a system to track accessioning work
 
 [GOING FURTHER 1.2](../methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp1-2) ➤  Systematically track accessioning labor and capacity
 
-#### [Section 2: The Collections File](appendix-b.-best-practices-at-a-glance.md#frozovzngpt) <a href="#frozovzngpt" id="frozovzngpt"></a>
+#### [Section 2: The Collections File](../methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#section2) <a href="#frozovzngpt" id="frozovzngpt"></a>
 
 [BEST PRACTICE 2.1](../methods-and-practices/get-ready-before-you-go-documenting-the-accessioning-workflow-and-creating-the-collection-file.md#bp2-1) ➤  Compile accessioning documentation and information in the collection file
 
-#### [Section 3: Selection and Appraisal](appendix-b.-best-practices-at-a-glance.md#id-9ibv7f6y6bdg) <a href="#id-9ibv7f6y6bdg" id="id-9ibv7f6y6bdg"></a>
+#### [Section 3: Selection and Appraisal](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/pre-custodial-considerations#section3) <a href="#id-9ibv7f6y6bdg" id="id-9ibv7f6y6bdg"></a>
 
 [BEST PRACTICE 3.1](../methods-and-practices/pre-custodial-considerations.md#bp3-1) ➤  Involve accessioning staff early in the acquisition process
 
@@ -39,7 +39,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 3.5](../methods-and-practices/pre-custodial-considerations.md#bp3-5) ➤  Create a plan to treat culturally sensitive materials with culturally responsive care
 
-[**Section 4: Legal Agreement**](../methods-and-practices/pre-custodial-considerations.md#section4)
+[**Section 4: Legal Agreement**](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/pre-custodial-considerations#section4)
 
 [BEST PRACTICE 4.1](../methods-and-practices/pre-custodial-considerations.md#bp4-1) ➤  Be clear and transparent in legal agreements about what will happen to materials after transfer
 
@@ -61,27 +61,27 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BORN-DIGITAL](../methods-and-practices/pre-custodial-considerations.md#bp4-9) [BEST PRACTICE 4.9](../methods-and-practices/pre-custodial-considerations.md#bp4-9) ➤  Include born-digital materials in legal agreements
 
-[BEST PRACTICE 4.10](../methods-and-practices/pre-custodial-considerations.md#bp4-10) ➤  Establish a local policy for accessioning collections on deposit
+[BEST PRACTICE 4.10](../methods-and-practices/pre-custodial-considerations.md#bp4-10) ➤  Establish a policy for accessioning collections on deposit
 
 [BEST PRACTICE 4.11](../methods-and-practices/pre-custodial-considerations.md#bp4-11) ➤  Clearly document shared stewardship arrangements
 
-#### [Section 5: Packing and Intake of Physical Collections](appendix-b.-best-practices-at-a-glance.md#id-67l7bncdg2lw) <a href="#id-67l7bncdg2lw" id="id-67l7bncdg2lw"></a>
+#### [Section 5: Packing and Intake of Physical Collections](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections#section5) <a href="#id-67l7bncdg2lw" id="id-67l7bncdg2lw"></a>
 
 [BEST PRACTICE 5.1](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-1) ➤  Pack collections in situ whenever possible
 
-[BEST PRACTICE 5.2](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-2) ➤  Pack only what has been acquired. Appraise again while packing, if needed
+[BEST PRACTICE 5.2](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-2) ➤  Pack only what is being acquired and appraise again while packing, if needed
 
 [BEST PRACTICE 5.3](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-3) ➤  Pack collections for safe transport
 
 [BEST PRACTICE 5.4](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp5-4) ➤  Reuse, recycle, and repurpose packing materials
 
-#### [Section 6: Receiving and Storage Environments](appendix-b.-best-practices-at-a-glance.md#cot7v01k5tu4) <a href="#cot7v01k5tu4" id="cot7v01k5tu4"></a>
+#### [Section 6: Receiving and Storage Environments](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections#section6) <a href="#cot7v01k5tu4" id="cot7v01k5tu4"></a>
 
 [BEST PRACTICE 6.1](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp6-1) ➤  Designate a consistent location for new acquisitions
 
 [BEST PRACTICE 6.2](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp6-2) ➤  Storage for new acquisitions and accessioned materials should be secure, accessible, and environmentally stable
 
-#### [Section 7: Initial Physical Inspection and Assessment of Physical Materials](appendix-b.-best-practices-at-a-glance.md#a0p8nd6xykd1) <a href="#a0p8nd6xykd1" id="a0p8nd6xykd1"></a>
+#### [Section 7: Initial Physical Inspection and Assessment of Physical Materials](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections#section7) <a href="#a0p8nd6xykd1" id="a0p8nd6xykd1"></a>
 
 [BEST PRACTICE 7.1](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp7-1) ➤  Review all received items as quickly as possible after receipt
 
@@ -89,7 +89,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 7.3](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp7-3) ➤  Dispose of or return unwanted items prior to accessioning
 
-#### [Section 8: Transfer, Intake, And Assessment of Born-Digital Materials](appendix-b.-best-practices-at-a-glance.md#id-1tmj8pzed5s) <a href="#id-1tmj8pzed5s" id="id-1tmj8pzed5s"></a>
+#### [Section 8: Transfer, Intake, and Assessment of Born-Digital Materials](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections#section8) <a href="#id-1tmj8pzed5s" id="id-1tmj8pzed5s"></a>
 
 [BORN-DIGITAL](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp8-1) [BEST PRACTICE 8.1](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp8-1) ➤  Select a transfer method suitable for the source and the needs of the content
 
@@ -105,7 +105,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BORN-DIGITAL](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp8-7) [BEST PRACTICE 8.7](../methods-and-practices/establishing-custody-packing-transfer-and-intake-of-new-collections.md#bp8-7) ➤  Use a write blocker when interacting with new collections
 
-#### [Section 9: Rehousing](appendix-b.-best-practices-at-a-glance.md#id-274v9uibfurc) <a href="#id-274v9uibfurc" id="id-274v9uibfurc"></a>
+#### [Section 9: Rehousing](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/stabilization#section9) <a href="#id-274v9uibfurc" id="id-274v9uibfurc"></a>
 
 [BEST PRACTICE 9.1](../methods-and-practices/stabilization.md#bp9-1) ➤  House for stabilization
 
@@ -115,7 +115,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 9.3](../methods-and-practices/stabilization.md#bp9-3) ➤  Maintain original order during rehousing
 
-#### [Section 10: Preservation](appendix-b.-best-practices-at-a-glance.md#uz2izorpvo85) <a href="#uz2izorpvo85" id="uz2izorpvo85"></a>
+#### [Section 10: Preservation](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/stabilization#section10) <a href="#uz2izorpvo85" id="uz2izorpvo85"></a>
 
 [BEST PRACTICE 10.1](../methods-and-practices/stabilization.md#bp10-1) ➤  Identify and document special formats and preservation concerns
 
@@ -129,7 +129,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BORN-DIGITAL](../methods-and-practices/stabilization.md#bp10-6) [BEST PRACTICE 10.6](../methods-and-practices/stabilization.md#bp10-6) ➤  Keep multiple copies of digital files
 
-#### [Section 11: Foundational Description](appendix-b.-best-practices-at-a-glance.md#id-8u8acm1iftr) <a href="#id-8u8acm1iftr" id="id-8u8acm1iftr"></a>
+#### [Section 11: Foundational Description](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/description-and-access#section11) <a href="#id-8u8acm1iftr" id="id-8u8acm1iftr"></a>
 
 [BEST PRACTICE 11.1](../methods-and-practices/description-and-access.md#bp11-1) ➤  Create an accession record for each new collection and accretion as a standard part of the accessioning workflow
 
@@ -149,7 +149,7 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [BEST PRACTICE 11.8](../methods-and-practices/description-and-access.md#bp11-8) ➤  Operationalize reparative description through accessioning
 
-#### [Section 12: Steps Toward Access](appendix-b.-best-practices-at-a-glance.md#id-5euc80oya1ox) <a href="#id-5euc80oya1ox" id="id-5euc80oya1ox"></a>
+#### [Section 12: Steps Toward Access](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/description-and-access#section12) <a href="#id-5euc80oya1ox" id="id-5euc80oya1ox"></a>
 
 [BEST PRACTICE 12.1](../methods-and-practices/description-and-access.md#bp12-1) ➤  Consider description during accessioning as the foundation of an extensible processing program
 
@@ -157,11 +157,11 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [GOING FURTHER 12.3](../methods-and-practices/description-and-access.md#bp12-3) ➤  Regularize “accessioning for access”
 
-#### [Section 13: Accessioning Labor is Multifaceted](appendix-b.-best-practices-at-a-glance.md#pjmhhoyrh86) <a href="#pjmhhoyrh86" id="pjmhhoyrh86"></a>
+#### [Section 13: Accessioning Labor Is Multifaceted](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/successful-accessioning-labor-practices#section13) <a href="#pjmhhoyrh86" id="pjmhhoyrh86"></a>
 
 [BEST PRACTICE 13.1](../methods-and-practices/successful-accessioning-labor-practices.md#bp13-1) ➤  Treat accessioning positions as skilled, professional labor
 
-#### [Section 14: Best Practices for Creating Accessioning Positions](appendix-b.-best-practices-at-a-glance.md#b7zuucd72gyu) <a href="#b7zuucd72gyu" id="b7zuucd72gyu"></a>
+#### [Section 14: Best Practices for Creating Accessioning Positions](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/successful-accessioning-labor-practices#section14) <a href="#b7zuucd72gyu" id="b7zuucd72gyu"></a>
 
 [BEST PRACTICE 14.1](../methods-and-practices/successful-accessioning-labor-practices.md#bp14-1) ➤  Create permanent positions
 
@@ -179,13 +179,13 @@ This appendix consists of the compiled best practice recommendations in an abbre
 
 [ADDITIONAL CONSIDERATIONS](../methods-and-practices/successful-accessioning-labor-practices.md#additional-considerations-encourage-contributions-to-the-field) ➤  Encourage contributions to the field
 
-#### [Section 15: Partnerships in Accessioning](appendix-b.-best-practices-at-a-glance.md#kyq2qhxc3w5g) <a href="#kyq2qhxc3w5g" id="kyq2qhxc3w5g"></a>
+#### [Section 15: Partnerships in Accessioning](https://accessioning.gitbook.io/archival-accessioning-best-practices/methods-and-practices/successful-accessioning-labor-practices#section15) <a href="#kyq2qhxc3w5g" id="kyq2qhxc3w5g"></a>
 
 [BEST PRACTICE 15.1](../methods-and-practices/successful-accessioning-labor-practices.md#bp15-1) ➤  Empower the accessioner
 
 [BEST PRACTICE 15.2](../methods-and-practices/successful-accessioning-labor-practices.md#bp15-2) ➤  Define internal and external partnership responsibilities
 
-#### [Section 16: What is an Accession Record?](appendix-b.-best-practices-at-a-glance.md#tcy7futipum4) <a href="#tcy7futipum4" id="tcy7futipum4"></a>
+#### [Section 16: What is an Accession Record?](https://accessioning.gitbook.io/archival-accessioning-best-practices/accession-record-elements#section16) <a href="#tcy7futipum4" id="tcy7futipum4"></a>
 
 [BEST PRACTICE 16.1](../accession-record-elements.md#bp16-1) ➤  Identify who is responsible for creation of the accession record
 
