@@ -4,6 +4,8 @@ description: The document is currently under review by the SAA Standards Committ
 
 # Appendix D. Templates
 
+Each template is available for download as an individual PDF for ease and local adaptation. Downloadable files are located at the top of each template page.
+
 **Templates include:**
 
 [SAMPLE ACCESSIONING WORKFLOW CHECKLIST](sample-accessioning-workflow-checklist.md)
