@@ -2,7 +2,6 @@
 
 * [ABOUT](README.md)
   * [Download This Resource](about/download-this-resource.md)
-  * [Document History and Revisions](about/document-history-and-revisions.md)
   * [Members of the National Best Practices for Archival Accessioning Working Group](about/members-of-the-national-best-practices-for-archival-accessioning-working-group.md)
   * [Acknowledgements](about/acknowledgements.md)
 * [INTRODUCTION](introduction/README.md)
@@ -27,3 +26,4 @@
     * [PRE-ACQUISITION COLLECTION SURVEY](appendices/appendix-d.-templates/pre-acquisition-collection-survey.md)
     * [PARTNERS IN ACCESSIONING: ENVIRONMENTAL SCAN](appendices/appendix-d.-templates/partners-in-accessioning-environmental-scan.md)
   * [Appendix E. Bibliography and Resources](appendices/appendix-e.-bibliography-and-resources.md)
+  * [Appendix F. Document History and Revisions](appendices/appendix-f.-document-history-and-revisions.md)
