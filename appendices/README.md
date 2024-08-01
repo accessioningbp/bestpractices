@@ -26,3 +26,5 @@ In this chapter:
 #### [Appendix D. Templates](appendix-d.-templates/)
 
 #### [Appendix E. Bibliography & Resources](appendix-e.-bibliography-and-resources.md)
+
+#### [Appendix F. Document History and Revisions](./#appendix-f.-document-history-and-revisions)
