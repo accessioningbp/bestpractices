@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true
@@ -14,6 +13,8 @@ layout:
 ---
 
 # SAMPLE ACCESSIONING WORKFLOW CHECKLIST
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_accessioning workflow checklist.pdf" %}
 
 The following sample checklist, created by the University of Santa Cruz Special Collections & Archives (SCA), should not be considered prescriptive and is provided as _one_ example of what a complete accessioning workflow could look like in practice. Not all elements of this example workflow will work for all institutions. Use the Best Practices guidelines to create a checklist that fits your environment.
 
@@ -103,5 +104,3 @@ See Creating Resource Records in the Accessioning and Processing Manual for deta
 _If the collection is two linear feet or smaller, or if materials are uniform in format or arrangement and can be adequately described in a catalog record, processing stops here._
 
 ***
-
-{% file src="../../.gitbook/assets/ABP v.1.0_template_accessioning workflow checklist.pdf" %}

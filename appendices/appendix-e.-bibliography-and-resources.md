@@ -1,7 +1,3 @@
----
-description: The document is currently under review by the SAA Standards Committee.
----
-
 # Appendix E. Bibliography and Resources
 
 This bibliography was created by the National Best Practices for Archival Accessioning Working Group. It consists of resources that are cited in the Best Practices as well as sources that inform our understanding of accessioning work more broadly.

@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true
@@ -14,6 +13,8 @@ layout:
 ---
 
 # Successful Accessioning Labor Practices
+
+
 
 {% tabs %}
 {% tab title="SECTION 13: ACCESSIONING LABOR IS MULTIFACETED" %}

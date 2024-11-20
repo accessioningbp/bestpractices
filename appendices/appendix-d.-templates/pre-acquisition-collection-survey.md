@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true
@@ -14,6 +13,8 @@ layout:
 ---
 
 # PRE-ACQUISITION COLLECTION SURVEY
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_preacquisition collection survey.pdf" %}
 
 Once contact has been made with a potential donor or seller, and research has been conducted to establish the context of the materials, it is recommended to conduct a survey.
 
@@ -74,5 +75,3 @@ A site visit may not always be possible, particularly if the collection is not h
   * [ ] Details on computer operating system, software, and other hardware such as cameras or intermediary storage devices
 
 ***
-
-{% file src="../../.gitbook/assets/ABP v.1.0_template_preacquisition collection survey.pdf" %}

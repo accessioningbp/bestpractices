@@ -1,12 +1,14 @@
----
-description: The document is currently under review by the SAA Standards Committee.
----
-
 # Appendix F. Document History and Revisions
 
 ## Version Information
 
-**Archival Accessioning Best Practices (ABP) v.1.0, published in Gitbook July 2024**: Submitted to the Society of American Archivists Standards Committee in August 2024.
+### Versions
+
+#### **Archival Accessioning Best Practices (ABP) v.1.0.1**: Approved by Society of American Archivists Council in November 2024.
+
+Removed individual page headers regarding review by the SAA Standards Committee following approval by SAA Council in November 2024.
+
+#### **Archival Accessioning Best Practices (ABP) v.1.0, published in Gitbook July 2024**: Submitted to the Society of American Archivists Standards Committee in August 2024.
 
 ### Changelog
 

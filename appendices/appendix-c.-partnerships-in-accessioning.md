@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true

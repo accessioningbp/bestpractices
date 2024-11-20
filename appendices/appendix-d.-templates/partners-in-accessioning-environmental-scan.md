@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true
@@ -14,6 +13,8 @@ layout:
 ---
 
 # PARTNERS IN ACCESSIONING: ENVIRONMENTAL SCAN
+
+{% file src="../../.gitbook/assets/ABP v.1.0_template_partners environmental scan.pdf" %}
 
 Accessioning archivists are at the center of a complex web of relationships, the strength of which can impact the effectiveness of accessioning work and advocacy. These relationships may be with true partners, stakeholders, or facilitators who help provide resources.
 
@@ -37,5 +38,3 @@ The following table, adapted from a SWOT analysis, can be used to record notes d
 <table data-full-width="false"><thead><tr><th>Partner</th><th>Opportunities</th><th>Risks</th><th>Benefits from Accessioning</th><th>Communication Style</th></tr></thead><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
 
 ***
-
-{% file src="../../.gitbook/assets/ABP v.1.0_template_partners environmental scan.pdf" %}

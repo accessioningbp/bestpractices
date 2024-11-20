@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 layout:
   title:
     visible: true
@@ -17,4 +16,4 @@ layout:
 
 Download the Best Practices as a single PDF file:
 
-{% file src="../.gitbook/assets/Accessioning Best Practices_20240715.docx.pdf" %}
+{% file src="../.gitbook/assets/Accessioning_Best_Practices_v.1.0_2024.pdf" %}

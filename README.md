@@ -1,5 +1,4 @@
 ---
-description: The document is currently under review by the SAA Standards Committee.
 cover: .gitbook/assets/AccPrac logo_web.jpg
 coverY: 0
 layout:
@@ -22,14 +21,14 @@ layout:
 
 ## Archival Accessioning Best Practices
 
-**ABP v.1.0**
+**ABP v.1.0.1**
 
 _A set of best practices by the_
 
 **NATIONAL BEST PRACTICES **_**for**_ \
 **ARCHIVAL ACCESSIONING WORKING GROUP**
 
-July 2024
+November 2024
 
 #### SPONSORED & SUPPORTED BY&#x20;
 

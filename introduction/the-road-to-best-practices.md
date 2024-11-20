@@ -1,7 +1,3 @@
----
-description: The document is currently under review by the SAA Standards Committee.
----
-
 # The Road to Best Practices
 
 ## FINDING THE PATH

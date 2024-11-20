@@ -1,8 +1,4 @@
----
-description: The document is currently under review by the SAA Standards Committee.
----
-
-# METHODS & PRACTICES
+# METHODS AND PRACTICES
 
 In this chapter:
 
