@@ -4,6 +4,10 @@
 
 ### Versions
 
+**Archival Accessioning Best Practices (ABP) v.1.0.2: Transfer of ownership of standard to SAA Accessioning, Acquisitions, & Appraisal Section (AA\&A).**
+
+Updated contact email address to mark transfer of responsibility of the Best Practices to the[ SAA Accessioning, Acquisitions, & Appraisal Section (AA\&A)](https://www2.archivists.org/groups/accessioning-acquisitions-appraisal-section) in January 2025.
+
 #### **Archival Accessioning Best Practices (ABP) v.1.0.1**: Approved by Society of American Archivists Council in November 2024.
 
 Removed individual page headers regarding review by the SAA Standards Committee following approval by SAA Council in November 2024.
@@ -41,6 +45,6 @@ A patch or bug fix may include:
 
 ## Future Revisions and Feedback
 
-Following formal approval, this standard is maintained by the [SAA Accessioning, Acquisitions, & Appraisal Section.](https://www2.archivists.org/groups/accessioning-acquisitions-appraisal-section) The initial review will occur in three years in 2027. After the initial review, the SAA Standards Committee requires review every five years.&#x20;
+Following formal approval, this standard is maintained by the [SAA Accessioning, Acquisitions, & Appraisal Section (AA\&A).](https://www2.archivists.org/groups/accessioning-acquisitions-appraisal-section) The initial review will occur in three years in 2027. After the initial review, the SAA Standards Committee requires review every five years.&#x20;
 
-Bug fixes or patch releases are permitted to occur outside of the formal review period in order to correct typos, broken links, and perform basic maintenance functionality. During the period between submission to Standards and adoption by AA\&A, you may report an error to ABP at [accessioningresearch@gmail.com](https://app.gitbook.com/u/Kz5P68ik9odOV6hAK3tjDqrKb8I2). Feedback and suggestions beyond correcting errors (e.g., a suggestion that warrants broader consideration, a desired expansion into new areas) will be collected and acknowledged but might not be addressed until the formal review period.
+Bug fixes or patch releases are permitted to occur outside of the formal review period in order to correct typos, broken links, and perform basic maintenance functionality. You may report an error to AA\&A at [appraisalsaa@gmail.com](mailto:appraisalsaa@gmail.com). Feedback and suggestions beyond correcting errors (e.g., a suggestion that warrants broader consideration, a desired expansion into new areas) will be collected and acknowledged but might not be addressed until the formal review period.

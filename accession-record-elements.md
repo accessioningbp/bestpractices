@@ -99,7 +99,7 @@ This element identifies the name and location of the repository that holds the m
 
 * This information is typically kept in an information system and universally applied to all records therein; it usually does not need to be explicitly recorded, but any output of the record should be sure to include this element.
 
-_**DACS**_** element:** _2.2, Name and Location of Repository_
+_**DACS**_**&#x20;element:** _2.2, Name and Location of Repository_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 2 ➤  Date Accessioned</mark>
 
@@ -111,7 +111,7 @@ This element documents the date the accession record was either created or compl
 * The date accessioned can be recorded via the timestamp the accession record was created when using databases.
 * The date the accession record was created or completed may not be the same as the date the collection was acquired. The date the collection was acquired should be put into the [Immediate Source of Acquisition element](accession-record-elements.md#required-element-12-immediate-source-of-acquisition) and/or the [Date Acquired](accession-record-elements.md#optional-element-14-date-acquired) element.
 
-_**DACS**_** element**: _8.1, Description Control_
+_**DACS**_**&#x20;element**: _8.1, Description Control_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 3 ➤  Accession Identifier</mark>
 
@@ -135,7 +135,7 @@ The process for designing any identifier should be guided by core information ma
     * To avoid numbering mistakes, consider implementing software that performs validation and/or automatically increments accession identifiers.
   * **Repository code.** Particularly within institutions with more than one repository, it can be useful to understand which repository materials belong to.
 
-_**DACS**_** element**: _2.1, Reference Code_
+_**DACS**_**&#x20;element**: _2.1, Reference Code_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 4 ➤ Title</mark>
 
@@ -147,7 +147,7 @@ This element is an initial descriptive phrase by which an accession is identifie
 * Be specific enough to identify the material in the accession.
 * For accretions to existing collections, the accession title may be different than the collection title. This helps distinguish different accretions to the same collection.
 
-_**DACS**_** element**: _2.3, Title_
+_**DACS**_**&#x20;element**: _2.3, Title_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 5 ➤  Material Date(s)</mark>
 
@@ -159,7 +159,7 @@ This element records the date(s) of the materials within an accession.
 * **Do not leave the date field empty** in the expectation that this will be determined in the future or to produce an “undated” value.
 * Estimated date ranges are acceptable and can be viewed as a foundational step in an iterative or extensible mindset.
 
-_**DACS**_** element**: _2.4, Date_
+_**DACS**_**&#x20;element**: _2.4, Date_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 6 ➤  Extent(s) Retained</mark>
 
@@ -172,7 +172,7 @@ This element records the extent and physical nature of the materials **at the en
 * If different, optionally record the extent of the materials received using the [Extent(s) Received](accession-record-elements.md#optional-element-15-extent-s-received) element.
 * Explain appraisal actions that account for discrepancies in the extent received and retained using the [Appraisal Decisions](accession-record-elements.md#optional-element-18-appraisal-decisions) element.
 
-_**DACS**_** element**: _2.5, Extent_
+_**DACS**_**&#x20;element**: _2.5, Extent_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 7 ➤  Creator(s) of Materials</mark>
 
@@ -183,7 +183,7 @@ This element records the corporate bodies, persons, and families associated with
 * The principle of provenance requires that materials be organized according to the individual, family, or organization that created or received the items in a collection.
 * If the creator is unknown, record that information.
 
-_**DACS**_** element**: _2.6, Name of Creator(s)_
+_**DACS**_**&#x20;element**: _2.6, Name of Creator(s)_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 8 ➤  Scope and Content of Materials</mark>
 
@@ -195,7 +195,7 @@ This element provides initial and high-level description for the accession.
 * This element provides a foundation for future description. Refer to documentation in the collection file, and repurpose information learned through the acquisition process.
 * This element allows for additional initial discovery, which is especially critical for unprocessed accessions.
 
-_**DACS**_** element**: _3.1, Scope and Content_
+_**DACS**_**&#x20;element**: _3.1, Scope and Content_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 9 ➤  Conditions Governing Access</mark>
 
@@ -206,7 +206,7 @@ This element documents decisions from the legal agreement regarding which parts,
 * This information should be as concrete, specific, and explicit as possible to help avoid errors in providing access to researchers.
 * If there are no restrictions, state that fact.
 
-_**DACS**_** element**_: DACS 4.1, Conditions Governing Access_
+_**DACS**_**&#x20;element**_: DACS 4.1, Conditions Governing Access_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 10 ➤  Conditions Governing Use</mark>
 
@@ -217,7 +217,7 @@ This element documents decisions made in the legal agreement regarding the reten
 * If there are no restrictions, state that fact.
 * If the existence of such conditions is unknown, record this.
 
-_**DACS**_** element**: _4.4, Conditions Governing Reproduction and Use_
+_**DACS**_**&#x20;element**: _4.4, Conditions Governing Reproduction and Use_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 11 ➤  Languages and Scripts of Materials</mark>
 
@@ -228,7 +228,7 @@ This element identifies the language(s) and script(s) present in the materials b
 * This information should come from a preliminary review of the material or the collection file. It typically will not be comprehensive.
 * When possible, leverage tools already used to analyze an accession to obtain some of this information.
 
-_**DACS**_** element**: _4.5, Language and Scripts of the Material_
+_**DACS**_**&#x20;element**: _4.5, Language and Scripts of the Material_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 12 ➤  Immediate Source of Acquisition</mark>
 
@@ -240,7 +240,7 @@ This element is used to document the source of acquisition, the date of acquisit
 * The person/persons (including specific individual(s) within an organization) responsible for transferring materials to the archival repository may or may not be the same person/entity as the creator.
 * If the source, date, and/or method of acquisition is unknown, record that information clearly (e.g., “The provenance of this collection is unknown.”).
 
-_**DACS**_** element**: _5.2, Immediate Source of Acquisition_
+_**DACS**_**&#x20;element**: _5.2, Immediate Source of Acquisition_
 
 #### <mark style="color:blue;">REQUIRED ELEMENT 13 (when relevant) ➤  Rights Statements for Archival Description</mark>
 
@@ -251,7 +251,7 @@ This element documents the conditions under which the archival description itsel
 * Repositories should establish a consistent policy about the rights granted.
 * When accession information will not be discoverable by the public, it is not necessary to determine how and whether others can reuse this description. Make a repository-wide determination of this choice and for these records so that this decision can apply to future reuse.
 
-_**DACS**_** element**: _8.2, Rights Statements for Archival Description_
+_**DACS**_**&#x20;element**: _8.2, Rights Statements for Archival Description_
 
 #### OPTIONAL ELEMENT 14 ➤  Date Acquired
 
@@ -263,7 +263,7 @@ This element documents the date the materials were acquired by the repository.
 * Adopt a consistent local practice on how the date used for this element is determined, such as date of agreement or transfer of physical custody.&#x20;
 * This element is particularly useful for retrospective accessioning of legacy materials.
 
-_**DACS**_** element**: 5.2.3, _Immediate Source of Acquisition_
+_**DACS**_**&#x20;element**: 5.2.3, _Immediate Source of Acquisition_
 
 #### OPTIONAL ELEMENT 15 ➤  Extent(s) Received
 
@@ -276,7 +276,7 @@ This element records the extent and physical nature of the materials **as receiv
 * Record the extent of the materials retained at the end of accessioning using the [Extent(s) Retained](accession-record-elements.md#required-element-6-extent-s-retained) element.
 * Consider this element as a complement to acquisition documentation stored in the collection file.
 
-_**DACS**_** element**: _2.5, Extent_
+_**DACS**_**&#x20;element**: _2.5, Extent_
 
 #### OPTIONAL ELEMENT 16 ➤  Condition Description
 
@@ -287,7 +287,7 @@ This element records the condition of the materials at the point of accession; n
 * This information should come from a preliminary review of the material.
 * Information on the physical nature of the materials and specific formats contained within the accession are recorded in the [Extent(s) Retained](accession-record-elements.md#required-element-6-extent-s-retained) element.
 
-_**DACS**_** element**: _4.2, Physical Access; 4.3 Technical Access_
+_**DACS**_**&#x20;element**: _4.2, Physical Access; 4.3 Technical Access_
 
 #### OPTIONAL ELEMENT 17 ➤  Custodial History
 
@@ -298,7 +298,7 @@ This element documents changes of ownership or custody of the materials being ac
 * Record any known impact of these transfers on the materials themselves, such as materials being removed from the collection.
 * Record contextual information about transfers in custody that is significant to the user’s understanding of the materials.
 
-_**DACS**_** element**: _5.1, Custodial History_
+_**DACS**_**&#x20;element**: _5.1, Custodial History_
 
 #### OPTIONAL ELEMENT 18 ➤  Appraisal Decisions
 
@@ -310,10 +310,10 @@ This element records the rationale for appraisal decisions and disposition actio
 * Appraisal decisions may document the following:
   * **The decision to accept materials into the repository and the reasons for that decision.** Facilitate internal communication and subsequent resource description by documenting the reasons why materials were brought into the repository. Document the evidentiary or symbolic value of an accession or how it fits into the repository’s collecting landscape.
   * Institutional/political considerations that contributed to acquiring a collection that might not otherwise have been accepted under normal criteria.
-  * **The decision to **_**not**_** accept materials** into the repository and the reasons for that decision. Record **pre-custodial appraisal decisions** for materials offered to the repository but not accepted as part of the acquisition.
+  * **The decision to&#x20;**_**not**_**&#x20;accept materials** into the repository and the reasons for that decision. Record **pre-custodial appraisal decisions** for materials offered to the repository but not accepted as part of the acquisition.
   * **The identification of materials that are separated or sampled**, along with the rationale for this decision. Generally speaking, materials that are appraised and separated from the collection at the time of accessioning do not need to be held to the same documentary (and process) standards for deaccessioning as accessioned materials do. For this reason, review materials shortly after transfer to make choices about their retention.
   * **Policy information**. Information about rules defined by a retention schedule or collection development policy that affected the retention or disposition of the records in this accession. Provide enough information about this policy (including date referenced) to enable access by staff and researchers in the future.
 
-_**DACS**_** element**: _5.3, Appraisal, Destruction and Scheduling Information_
+_**DACS**_**&#x20;element**: _5.3, Appraisal, Destruction and Scheduling Information_
 
 \

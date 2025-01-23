@@ -31,7 +31,7 @@ Archival values such as access and use, responsible stewardship, and accountabil
 
 **III.  Accessioning is the optimal time to record custodial information about the collection and contextual information about the acquisition itself.** It is also the point at which the most information about the materials—including information not present in the archival materials themselves—is available. Relying on memory or institutional knowledge rather than documenting information promptly, consistently, and in a reliable location exposes a repository to unnecessary risk.
 
-**IV.  Accessioning work **_**must be**_** supported** and built into the operational labor structure of the repository.
+**IV.  Accessioning work&#x20;**_**must be**_**&#x20;supported** and built into the operational labor structure of the repository.
 
 * **Accessioning takes time**. Archivists doing accessioning need the resources, especially time, to carry out accessioning tasks and create documentation.
 * **Archivists doing accessioning need power and agency** to act on materials according to best practices. Archivists doing accessioning work need to be meaningfully involved in acquisition conversations from the beginning.

@@ -10,7 +10,7 @@ The bibliography retains the structure of the Best Practices. Practical resource
 
 BitCurator Consortium. “Resources.” [https://bitcuratorconsortium.org/resources/](https://bitcuratorconsortium.org/resources/)
 
-CCA National Archival Accession Standard Working Group. “Canadian Archival Accession Information Standard.” Canadian Council of Archives, 2019. [https://archivescanada.ca/wp-content/uploads/2023/07/CAAIS\_2019May15\_EN.pdf](https://archivescanada.ca/wp-content/uploads/2023/07/CAAIS\_2019May15\_EN.pdf)
+CCA National Archival Accession Standard Working Group. “Canadian Archival Accession Information Standard.” Canadian Council of Archives, 2019. [https://archivescanada.ca/wp-content/uploads/2023/07/CAAIS\_2019May15\_EN.pdf](https://archivescanada.ca/wp-content/uploads/2023/07/CAAIS_2019May15_EN.pdf)
 
 Educopia Institute. “OSSArcFlow: Investigating, Synchronizing, and Modeling a Range of Archival Workflows for Born-Digital Content.” 2020. [https://educopia.org/ossarcflow/](https://educopia.org/ossarcflow/)
 
@@ -22,9 +22,9 @@ National Archives and Records Administration. “Accessioning Guidance and Polic
 
 Society of American Archivists. _Describing Archives: A Content Standard_. 2022. [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/)
 
-———. “Guidelines for Reappraisal and Deaccessioning.” 2017. [https://www2.archivists.org/sites/all/files/GuidelinesForReappraisalDeaccessioning\_2017.pdf](https://www2.archivists.org/sites/all/files/GuidelinesForReappraisalDeaccessioning\_2017.pdf)
+———. “Guidelines for Reappraisal and Deaccessioning.” 2017. [https://www2.archivists.org/sites/all/files/GuidelinesForReappraisalDeaccessioning\_2017.pdf](https://www2.archivists.org/sites/all/files/GuidelinesForReappraisalDeaccessioning_2017.pdf)
 
-———. “SAA Core Values Statement and Code of Ethics | Society of American Archivists.” 2020. [https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics#code\_of\_ethics](https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics#code\_of\_ethics)
+———. “SAA Core Values Statement and Code of Ethics | Society of American Archivists.” 2020. [https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics#code\_of\_ethics](https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics#code_of_ethics)
 
 ———. _Dictionary of Archives Terminology_. [https://dictionary.archivists.org/](https://dictionary.archivists.org/)
 
@@ -174,15 +174,15 @@ Williams, Joy Ellen. “The Big Freeze: A Reflection on Pests, Preservation, and
 
 ### **Resources**
 
-Berdini, Annalise, Charles Macquarie, Shira Peltzman, and Kate Tasker. U_C Guidelines for Born-Digital Archival Description_. UC Office of the President: University of California Systemwide Libraries, 2017.  [https://escholarship.org/uc/item/9cg222jc](https://escholarship.org/uc/item/9cg222jc)
+Berdini, Annalise, Charles Macquarie, Shira Peltzman, and Kate Tasker. &#x55;_&#x43; Guidelines for Born-Digital Archival Description_. UC Office of the President: University of California Systemwide Libraries, 2017.  [https://escholarship.org/uc/item/9cg222jc](https://escholarship.org/uc/item/9cg222jc)
 
-California Audiovisual Preservation Project. “Audiovisual Formats: A Guide to Identification.” September 26, 2013. [https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats\_draft\_webversion-2013oct15.pdf](https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats\_draft\_webversion-2013oct15.pdf)
+California Audiovisual Preservation Project. “Audiovisual Formats: A Guide to Identification.” September 26, 2013. [https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats\_draft\_webversion-2013oct15.pdf](https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
 
 Dundon, K., McPhee, L., Arroyo-Ramirez, E., Beiser, J., Dean, C., Eagle Yun, A., et al. “Guidelines for Efficient Archival Processing in the University of California Libraries (Version 4).” University of California Libraries, 2020. [https://escholarship.org/uc/item/4b81g01z](https://escholarship.org/uc/item/4b81g01z)
 
 Faulder, Erin, Susanne Annand, Sally DeBauche, Martin Gengenbach, Karla Irwin, Julie Musson, Shira Peltzman, Kate Tasker, Laura Uglean Jackson, and Dorothy Waugh. “Digital Processing Framework.” Cornell University Library, August 2018. [https://hdl.handle.net/1813/57659](https://hdl.handle.net/1813/57659)
 
-International Council on Archives. “Principles of Access to Archives.” 2012.[ ](https://www.ica.org/sites/default/files/ICA\_Access-principles\_EN.pdf)[https://www.ica.org/en/principles-access-archives](https://www.ica.org/en/principles-access-archives)
+International Council on Archives. “Principles of Access to Archives.” 2012.[ ](https://www.ica.org/sites/default/files/ICA_Access-principles_EN.pdf)[https://www.ica.org/en/principles-access-archives](https://www.ica.org/en/principles-access-archives)
 
 UTSA Libraries Special Collections. “Know Your Digital Storage Media.” [https://lib.utsa.edu/knowyourmedia/index.html](https://lib.utsa.edu/knowyourmedia/index.html)
 
@@ -240,6 +240,6 @@ Sayles, Sheridan, L. Rebecca Johnson Melvin, and Amy C. Vo. “Perspectives on P
 
 Shaw, Seth, Richard C. Adler, and Jackie Dooley. _Demystifying IT: A Framework for Shared Understanding between Archivists and IT Professionals_. Dublin, OH: OCLC Research, 2017. [https://doi.org/10.25333/C3192N](https://doi.org/10.25333/C3192N)
 
-Tansey, Eira. “Archives Without archivists.” _Reconstruction: Studies in Contemporary Culture_ 16, no. 1 (2016). _Gale Academic OneFile_ (accessed January 25, 2024). [https://link.gale.com/apps/doc/A484096660/AONE?u=anon\~79cb31df\&sid=googleScholar\&xid=e942864f](https://link.gale.com/apps/doc/A484096660/AONE?u=anon\~79cb31df\&sid=googleScholar\&xid=e942864f)
+Tansey, Eira. “Archives Without archivists.” _Reconstruction: Studies in Contemporary Culture_ 16, no. 1 (2016). _Gale Academic OneFile_ (accessed January 25, 2024). [https://link.gale.com/apps/doc/A484096660/AONE?u=anon\~79cb31df\&sid=googleScholar\&xid=e942864f](https://link.gale.com/apps/doc/A484096660/AONE?u=anon~79cb31df\&sid=googleScholar\&xid=e942864f)
 
 Williams, S. “All Labor Is Local.” _Medium_ (blog), November 14, 2016.[ https://medium.com/@Wribrarian/all-labor-is-local-344963e33051](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051)

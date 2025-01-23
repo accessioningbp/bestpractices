@@ -21,37 +21,21 @@ layout:
 
 ## Archival Accessioning Best Practices
 
-**ABP v.1.0.1**
+**ABP v.1.0.2**
 
 _A set of best practices by the_
 
-**NATIONAL BEST PRACTICES **_**for**_ \
+**NATIONAL BEST PRACTICES&#x20;**_**for**_ \
 **ARCHIVAL ACCESSIONING WORKING GROUP**
 
-November 2024
+January 2025
 
 #### SPONSORED & SUPPORTED BY&#x20;
 
 
 
-<div>
-
-<figure><img src=".gitbook/assets/1.jpeg" alt="Institute of Museum and Library Services logo"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/SAAF-Logo-color-transparent_2438_0.png" alt="Society of American Archivists Foundation logo" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/SAAHoriz Blue.png" alt="Society of American Archivists logo" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/1.jpeg" alt="Institute of Museum and Library Services logo"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/SAAF-Logo-color-transparent_2438_0.png" alt="Society of American Archivists Foundation logo" width="563"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/SAAHoriz Blue.png" alt="Society of American Archivists logo" width="563"><figcaption></figcaption></figure></div>
 
 This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/CCby4.png" alt="CC By 4.0 icon" width="101"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/CCby4.png" alt="CC By 4.0 icon" width="101"><figcaption></figcaption></figure></div>
